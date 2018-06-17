@@ -18,7 +18,7 @@ const About = (props) => (
     </Row>
     <Row type="flex" justify="center" style={{ width: '100%'}}>
       <Col span={12}>
-        <div style={{ textAlign: 'center', fontSize: '18px'}}><Link to="/portfolio/about" onClick={props.handleHrefClick}>Qui suis-je ?</Link></div>
+        <div style={{ textAlign: 'center', fontSize: '18px'}}><Link to="/about" onClick={props.handleHrefClick}>Qui suis-je ?</Link></div>
       </Col>
     </Row>
 </Row>
