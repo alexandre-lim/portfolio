@@ -17,7 +17,7 @@ class App extends Component {
     const href = window.location.href.split('/');
 
     this.state = {
-      menuKey : href[3] ? [href[3]] : ['home']
+      menuKey : href[4] ? [href[4]] : ['home']
     };
 
     this.handleHrefClick = this.handleHrefClick.bind(this);
@@ -39,18 +39,18 @@ class App extends Component {
             selectedKeys={this.state.menuKey}
             style={{ lineHeight: '64px' }}
           >
-            <Menu.Item key="home"><Link to="/">Accueil</Link></Menu.Item>
-            <Menu.Item key="about"><Link to="/about" onClick={() => this.handleHrefClick('about')}>Je suis un rêveur</Link></Menu.Item>
-            <Menu.Item key="skills"><Link to="/skills" onClick={() => this.handleHrefClick('skills')}>Mes compétences</Link></Menu.Item>
-            <Menu.Item key="realizations"><Link to="/realizations" onClick={() => this.handleHrefClick('realizations')}>Mes réalisations</Link></Menu.Item>
-            <Menu.Item key="resume"><Link to="/resume">Mon parcours</Link></Menu.Item>
+            <Menu.Item key="home"><Link to="/portfolio">Accueil</Link></Menu.Item>
+            <Menu.Item key="about"><Link to="/portfolio/about" onClick={() => this.handleHrefClick('about')}>Je suis un rêveur</Link></Menu.Item>
+            <Menu.Item key="skills"><Link to="/portfolio/skills" onClick={() => this.handleHrefClick('skills')}>Mes compétences</Link></Menu.Item>
+            <Menu.Item key="realizations"><Link to="/portfolio/realizations" onClick={() => this.handleHrefClick('realizations')}>Mes réalisations</Link></Menu.Item>
+            <Menu.Item key="resume"><Link to="/portfolio/resume">Mon parcours</Link></Menu.Item>
           </Menu>
         </Header>
         <Content className= "content">
-          <Route exact path="/" render={()=><Home handleHrefClick={() => this.handleHrefClick('about')}/>} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/skills" component={Skills} />
-          <Route exact path="/realizations" component={Realizations} />
+          <Route exact path="/portfolio" render={()=><Home handleHrefClick={() => this.handleHrefClick('about')}/>}/>
+          <Route exact path="/portfolio/about" component={About} />
+          <Route exact path="/portfolio/skills" component={Skills} />
+          <Route exact path="/portfolio/realizations" component={Realizations} />
         </Content>
         <Footer className="app-footer">
           Portfolio ©2018 Created by Alexandre LIM
