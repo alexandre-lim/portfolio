@@ -44,12 +44,15 @@ class App extends Component {
             <Menu.Item key="skills"><Link to="/skills" onClick={() => this.handleHrefClick('skills')}>Mes compétences</Link></Menu.Item>
             <Menu.Item key="realizations"><Link to="/realizations" onClick={() => this.handleHrefClick('realizations')}>Mes réalisations</Link></Menu.Item>
             <Menu.Item key="resume"><Link to="/resume">Mon parcours</Link></Menu.Item>
+            {/* <Button type="primary" shape="circle" icon="linkedin" />
+            <Button type="primary" shape="circle" icon="github" /> */}
           </Menu>
         </Header>
         <Content className= "content">
+          <Route component={ScrollToTop} />
           <Route exact path="/" render={()=><Home handleHrefClick={() => this.handleHrefClick('about')}/>}/>
           <Route exact path="/about" component={About} />
-          <Route exact path="/skills" component={Skills} />
+          <Route path="/skills" component={Skills} />
           <Route exact path="/realizations" component={Realizations} />
         </Content>
         <Footer className="app-footer">
@@ -59,5 +62,11 @@ class App extends Component {
     );
   }
 }
+
+const ScrollToTop = () => {
+  window.scrollTo(0, 0);
+  return null;
+};
+
 
 export default App;
