@@ -3,7 +3,8 @@ import { Route } from "react-router-dom";
 import TechnicalSkills from './TechnicalSkills';
 import HumanSkills from './HumanSkills';
 import Persevere from './skills/human/Persevere';
-import Integrity from './skills//human/Integrity';
+import Integrity from './skills/human/Integrity';
+import Empathy from './skills/human/Empathy';
 
 
 const SkillsDefault = ({match}) => (
@@ -18,6 +19,7 @@ const Skills = ({ match }) => (
     <Route exact path={match.path} component={SkillsDefault} />
     <Route path={`${match.path}/persevere`} component={Persevere} />
     <Route path={`${match.path}/integrity`} component={Integrity} />
+    <Route path={`${match.path}/empathy`} component={Empathy} />
   </div>
 );
 
