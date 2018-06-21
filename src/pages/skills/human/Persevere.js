@@ -8,7 +8,7 @@ const Persevere = () => (
     </Row>
     <Row type="flex" className="skill-definition">
       <p>
-        <span className="span-bold">Définition</span> : Faire face à l'adversité
+        <span className="span-bold">Ma définition</span> : Faire face à l'adversité
         tout en préservant son intégrité pour atteindre un objectif.
       </p>
     </Row>
@@ -27,7 +27,7 @@ const Persevere = () => (
       <p>
         Persévérer dans le domaine du web entraîne une rigueur dans l'écriture du code et le respect des bonnes pratiques
         qui faciliteront la maintenance applicative. Les solutions recherchées sont approfondies et ne tombent
-        pas dans la facilité d'une réponse trouvée sur le net
+        pas dans la facilité d'une réponse trouvée sur le web.
       </p>
     </Row>
     <Row type="flex">

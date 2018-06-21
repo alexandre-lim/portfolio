@@ -8,7 +8,7 @@ const Failure = () => (
     </Row>
     <Row type="flex" className="skill-definition">
       <p>
-        <span className="span-bold">Définition</span> : Oser une action qui n'abouti pas aux résultats souhaités.
+        <span className="span-bold">Ma définition</span> : Oser une action qui n'abouti pas aux résultats souhaités.
       </p>
     </Row>
     <Row type="flex" className="skill-introduction">

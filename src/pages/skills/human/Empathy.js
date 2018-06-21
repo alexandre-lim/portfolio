@@ -8,7 +8,7 @@ const Empathy = () => (
     </Row>
     <Row type="flex" className="skill-definition">
       <p>
-        <span className="span-bold">Définition</span> : Connection psychique et émotionnelle entre des êtres vivants.
+        <span className="span-bold">Ma définition</span> : Connection psychique et émotionnelle entre des êtres vivants.
       </p>
     </Row>
     <Row type="flex" className="skill-introduction">

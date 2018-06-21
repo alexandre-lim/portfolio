@@ -8,8 +8,8 @@ const Integrity = () => (
     </Row>
     <Row type="flex" className="skill-definition">
       <p>
-        <span className="span-bold">Définition</span> : Se respecter, être honnête, vivre selon ses principes sans nuire à autrui
-        tout en restant flexible
+        <span className="span-bold">Ma définition</span> : Se respecter, être honnête, vivre selon ses principes sans nuire à autrui
+        tout en restant flexible.
       </p>
     </Row>
     <Row type="flex" className="skill-introduction">

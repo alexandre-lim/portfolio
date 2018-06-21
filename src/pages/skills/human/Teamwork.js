@@ -8,7 +8,7 @@ const Teamwork = () => (
     </Row>
     <Row type="flex" className="skill-definition">
       <p>
-        <span className="span-bold">Définition</span> : Collaboration entre plusieurs personnes partageant des valeurs
+        <span className="span-bold">Ma définition</span> : Collaboration entre plusieurs personnes partageant des valeurs
         communes pour atteindre un ou plusieurs objectifs.
       </p>
     </Row>
