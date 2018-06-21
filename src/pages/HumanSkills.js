@@ -29,17 +29,19 @@ const HumanSkills = ({match}) => (
       </Col>
       <Col span = {8}>
         <Row type="flex" justify="center">
-          <Card
-          className='card-skill'
-          cover={<img alt="Intégrité" src={integrity} />}
-          hoverable={true}
-          >
-          <div style={{ textAlign: 'center', lineHeight: '25px' }}>
-            <span><strong>Intégrité</strong></span>
-            <Rate disabled allowHalf defaultValue={4} />
-            <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={5} style={{ color: 'red' }}/>
-          </div>
-          </Card>
+          <Link to={`${match.url}/integrity`}>
+            <Card
+            className='card-skill'
+            cover={<img alt="Intégrité" src={integrity} />}
+            hoverable={true}
+            >
+            <div style={{ textAlign: 'center', lineHeight: '25px' }}>
+              <span><strong>Intégrité</strong></span>
+              <Rate disabled allowHalf defaultValue={4} />
+              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={5} style={{ color: 'red' }}/>
+            </div>
+            </Card>
+          </Link>
         </Row>
       </Col>
       <Col span = {8}>
