@@ -1,8 +1,14 @@
 {
-  "main.css": "static/css/main.7430f8be.css",
-  "main.css.map": "static/css/main.7430f8be.css.map",
-  "main.js": "static/js/main.77e6b5a4.js",
-  "main.js.map": "static/js/main.77e6b5a4.js.map",
+  "main.css": "static/css/main.87853346.css",
+  "main.css.map": "static/css/main.87853346.css.map",
+  "main.js": "static/js/main.ec42a4c9.js",
+  "main.js.map": "static/js/main.ec42a4c9.js.map",
   "static\\media\\alexandre.png": "static/media/alexandre.7c010d8e.png",
-  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg"
+  "static\\media\\empathy.png": "static/media/empathy.19eced43.png",
+  "static\\media\\failure.png": "static/media/failure.c76a4a67.png",
+  "static\\media\\integrity.png": "static/media/integrity.b173ca72.png",
+  "static\\media\\itschool.png": "static/media/itschool.8cad5ed4.png",
+  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg",
+  "static\\media\\persevere.png": "static/media/persevere.b312ef9a.png",
+  "static\\media\\teamwork.png": "static/media/teamwork.8d9e263c.png"
 }
