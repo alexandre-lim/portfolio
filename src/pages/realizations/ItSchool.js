@@ -107,32 +107,27 @@ const ItSchool = () => (
     <Row type="flex" gutter={16}>
       <Link to="/skills/persevere" onClick={() => this.handleHrefClick('skills')}>
         <Tooltip title="Persévérer">
-          <img src={persevere} alt="Persévérer" className="skills-button"
-          style={{ width:70, height:70, borderRadius: '50%' ,cursor: 'pointer'}}/>
+          <img src={persevere} alt="Persévérer" className="skills-button"/>
         </Tooltip>
       </Link>
       <Link to="/skills/integrity" onClick={() => this.handleHrefClick('skills')}>
         <Tooltip title="Intégrité">
-          <img src={integrity} alt="Intégrité" className="skills-button"
-          style={{ width:70, height:70, borderRadius: '50%' ,cursor: 'pointer'}}/>
+          <img src={integrity} alt="Intégrité" className="skills-button"/>
         </Tooltip>
       </Link>
       <Link to="/skills/empathy" onClick={() => this.handleHrefClick('skills')}>
         <Tooltip title="Empathie">
-          <img src={empathy} alt="Empathie" className="skills-button"
-          style={{ width:70, height:70, borderRadius: '50%' ,cursor: 'pointer'}}/>
+          <img src={empathy} alt="Empathie" className="skills-button"/>
         </Tooltip>
       </Link>
       <Link to="/skills/teamwork" onClick={() => this.handleHrefClick('skills')}>
         <Tooltip title="Travail d'équipe">
-          <img src={teamwork} alt="Travail d'équipe" className="skills-button"
-          style={{ width:70, height:70, borderRadius: '50%' ,cursor: 'pointer'}}/>
+          <img src={teamwork} alt="Travail d'équipe" className="skills-button"/>
         </Tooltip>
       </Link>
       <Link to="/skills/failure" onClick={() => this.handleHrefClick('skills')}>
         <Tooltip title="Echec">
-          <img src={failure} alt="Echec" className="skills-button"
-          style={{ width:70, height:70, borderRadius: '50%' ,cursor: 'pointer'}}/>
+          <img src={failure} alt="Echec" className="skills-button"/>
         </Tooltip>
       </Link>
     </Row>
