@@ -2,7 +2,7 @@ import React from 'react';
 import { Route } from "react-router-dom";
 import TechnicalSkills from './TechnicalSkills';
 import HumanSkills from './HumanSkills';
-import Persevere from './Persevere';
+import Persevere from './skills/Persevere';
 
 
 const SkillsDefault = ({match}) => (

@@ -15,7 +15,7 @@ const Persevere = () => (
     <Row type="flex" className="skill-introduction">
       <p>
         Pourquoi persévérer ? Ma réponse est que persévérer est un des facteurs qui permet la réussite personnelle
-        et professionnelle. Cette qualité peut se travailler à chaque instant et j'ai fait le choix de l'intégrer
+        et professionnelle. Cette qualité peut se travailler à chaque instant et j'ai fais le choix de l'intégrer
         dans ma routine quotidienne.
       </p>
       <p>
