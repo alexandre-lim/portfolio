@@ -5,6 +5,7 @@ import ItSchool from './realizations/ItSchool';
 import Syllabo from './realizations/Syllabo';
 import Beneylu from './realizations/Beneylu';
 import Improvit from './realizations/Improvit';
+import Alpha from './realizations/Alpha';
 
 
 const RealizationsDefault = ({match}) => (
@@ -20,6 +21,7 @@ const Realizations = ({ match }) => (
     <Route path={`${match.path}/beneylu`} component={Beneylu} />
     <Route path={`${match.path}/syllabo`} component={Syllabo} />
     <Route path={`${match.path}/improvit`} component={Improvit} />
+    <Route path={`${match.path}/alpha`} component={Alpha} />
   </div>
 );
 
