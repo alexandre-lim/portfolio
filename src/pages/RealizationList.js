@@ -24,21 +24,23 @@ const RealizationList = ({match}) => (
       </Col>
       <Col span = {8}>
         <Row type="flex" justify="center">
-          <Card
-          className='card-skill'
-          cover={<img alt="Beneylu logo" src="https://cdn5-prod.bns.ovh/ent/assets/images/main/logo.png?version=1529317303" />}
-          hoverable={true}
-          >
-          <div style={{ textAlign: 'center', lineHeight: '25px' }}>
-            <span><strong>Beneylu</strong></span>
-            <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={5} style={{ color: 'red' }}/>
-          </div>
-          </Card>
+          <Link to={`${match.url}/beneylu`}>
+            <Card
+            className='card-skill'
+            cover={<img alt="Beneylu logo" src="https://cdn5-prod.bns.ovh/ent/assets/images/main/logo.png?version=1529317303" />}
+            hoverable={true}
+            >
+            <div style={{ textAlign: 'center', lineHeight: '25px' }}>
+              <span><strong>Beneylu</strong></span>
+              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={5} style={{ color: 'red' }}/>
+            </div>
+            </Card>
+          </Link>
         </Row>
       </Col>
       <Col span = {8}>
         <Row type="flex" justify="center">
-          <Link to={`${match.url}/Syllabo`}>
+          <Link to={`${match.url}/syllabo`}>
             <Card
             className='card-skill'
             cover={<img alt="Syllabo logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />}

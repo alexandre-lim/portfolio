@@ -3,6 +3,7 @@ import { Route } from "react-router-dom";
 import RealizationList from './RealizationList';
 import ItSchool from './realizations/ItSchool';
 import Syllabo from './realizations/Syllabo';
+import Beneylu from './realizations/Beneylu';
 
 
 const RealizationsDefault = ({match}) => (
@@ -15,6 +16,7 @@ const Realizations = ({ match }) => (
   <div>
     <Route exact path={match.path} component={RealizationsDefault} />
     <Route path={`${match.path}/itschool`} component={ItSchool} />
+    <Route path={`${match.path}/beneylu`} component={Beneylu} />
     <Route path={`${match.path}/syllabo`} component={Syllabo} />
   </div>
 );
