@@ -54,6 +54,22 @@ const RealizationList = ({match}) => (
             </Link>
         </Row>
       </Col>
+      <Col span = {8}>
+        <Row type="flex" justify="center">
+          <Link to={`${match.url}/improvit`}>
+            <Card
+            className='card-skill'
+            cover={<img alt="Improvit logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />}
+            hoverable={true}
+            >
+            <div style={{ textAlign: 'center', lineHeight: '25px' }}>
+              <span><strong>Improv'IT</strong></span>
+              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={5} style={{ color: 'red' }}/>
+            </div>
+            </Card>
+            </Link>
+        </Row>
+      </Col>
     </Row>
   </Row>
 );
