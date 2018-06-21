@@ -6,6 +6,7 @@ import Persevere from './skills/human/Persevere';
 import Integrity from './skills/human/Integrity';
 import Empathy from './skills/human/Empathy';
 import Teamwork from './skills/human/Teamwork';
+import Failure from './skills/human/Failure';
 
 
 const SkillsDefault = ({match}) => (
@@ -22,6 +23,7 @@ const Skills = ({ match }) => (
     <Route path={`${match.path}/integrity`} component={Integrity} />
     <Route path={`${match.path}/empathy`} component={Empathy} />
     <Route path={`${match.path}/teamwork`} component={Teamwork} />
+    <Route path={`${match.path}/failure`} component={Failure} />
   </div>
 );
 
