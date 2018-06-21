@@ -53,7 +53,7 @@ class App extends Component {
           <Route exact path="/" render={()=><Home handleHrefClick={() => this.handleHrefClick('about')}/>}/>
           <Route exact path="/about" component={About} />
           <Route path="/skills" component={Skills} />
-          <Route exact path="/realizations" component={Realizations} />
+          <Route path="/realizations" component={Realizations} />
         </Content>
         <Footer className="app-footer">
           Portfolio ©2018 Created by Alexandre LIM
