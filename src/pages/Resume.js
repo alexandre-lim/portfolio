@@ -1,7 +1,6 @@
 import React from 'react';
 import { Row, Icon } from 'antd';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
-import 'react-vertical-timeline-component/style.min.css';
 
 const Resume = () => (
   <Row className= "content-row" style={{ background: '#f0f2f5' }}>
