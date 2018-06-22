@@ -94,3 +94,15 @@ body {
   border-radius: 50%;
   cursor: pointer;
 }
+
+.resume-icon {
+  font-size: 22px;
+  display: block;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  margin-left: -12px;
+  margin-top: -12px;
+}

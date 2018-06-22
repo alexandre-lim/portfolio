@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Skills from './pages/Skills';
 import Realizations from './pages/Realizations';
+import Resume from './pages/Resume';
 
 const { Header, Content, Footer } = Layout;
 
@@ -43,7 +44,7 @@ class App extends Component {
             <Menu.Item key="about"><Link to="/about" onClick={() => this.handleHrefClick('about')}>Je suis un rêveur</Link></Menu.Item>
             <Menu.Item key="skills"><Link to="/skills" onClick={() => this.handleHrefClick('skills')}>Mes compétences</Link></Menu.Item>
             <Menu.Item key="realizations"><Link to="/realizations" onClick={() => this.handleHrefClick('realizations')}>Mes réalisations</Link></Menu.Item>
-            <Menu.Item key="resume"><Link to="/resume">Mon parcours</Link></Menu.Item>
+            <Menu.Item key="resume"><Link to="/resume" onClick={() => this.handleHrefClick('resume')}>Mon parcours</Link></Menu.Item>
             {/* <Button type="primary" shape="circle" icon="linkedin" />
             <Button type="primary" shape="circle" icon="github" /> */}
           </Menu>
@@ -54,6 +55,7 @@ class App extends Component {
           <Route exact path="/about" component={About} />
           <Route path="/skills" component={Skills} />
           <Route path="/realizations" component={Realizations} />
+          <Route exact path="/resume" component={Resume} />
         </Content>
         <Footer className="app-footer">
           Portfolio ©2018 Created by Alexandre LIM
