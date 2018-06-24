@@ -3,6 +3,7 @@ import { Route } from "react-router-dom";
 import TechnicalSkills from './TechnicalSkills';
 import HtmlCSS from './skills/technical/HtmlCSS';
 import Javascript from './skills/technical/Javascript';
+import Webpack from './skills/technical/Webpack';
 
 import HumanSkills from './HumanSkills';
 import Persevere from './skills/human/Persevere';
@@ -25,6 +26,7 @@ const Skills = ({ match }) => (
     {/* Technical skills */}
     <Route path={`${match.path}/htmlCSS`} component={HtmlCSS} />
     <Route path={`${match.path}/javascript`} component={Javascript} />
+    <Route path={`${match.path}/webpack`} component={Webpack} />
 
     {/* Human skills */}
     <Route path={`${match.path}/persevere`} component={Persevere} />
