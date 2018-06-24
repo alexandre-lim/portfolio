@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Layout, Menu } from 'antd';
+import { Layout, Menu, Button, Tooltip } from 'antd';
 import { Route, Link } from "react-router-dom";
 import logo from './logo.svg';
 import './App.css';
@@ -45,8 +45,12 @@ class App extends Component {
             <Menu.Item key="skills"><Link to="/skills" onClick={() => this.handleHrefClick('skills')}>Mes compétences</Link></Menu.Item>
             <Menu.Item key="realizations"><Link to="/realizations" onClick={() => this.handleHrefClick('realizations')}>Mes réalisations</Link></Menu.Item>
             <Menu.Item key="resume"><Link to="/resume" onClick={() => this.handleHrefClick('resume')}>Mon parcours</Link></Menu.Item>
-            {/* <Button type="primary" shape="circle" icon="linkedin" />
-            <Button type="primary" shape="circle" icon="github" /> */}
+            <Tooltip title="Me contacter">
+              <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/alexandre-lim/">
+                <Button type="primary" shape="circle" icon="linkedin" style={{ marginLeft: 32 }} />
+              </a>
+            </Tooltip>
+            {/* <Button type="primary" shape="circle" icon="github" /> */}
           </Menu>
         </Header>
         <Content className= "content">
