@@ -84,6 +84,10 @@ body {
   box-sizing: border-box;
 }
 
+.ant-card-cover {
+  border-bottom: 1px solid rgba(0, 51, 0, 0.1)
+}
+
 .ant-card-cover > * {
   height: 198px;
 }

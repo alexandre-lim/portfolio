@@ -61,6 +61,9 @@ const HumanSkills = ({match}) => (
           </Link>
         </Row>
       </Col>
+    </Row>
+    <br/>
+    <Row type="flex">
       <Col span = {12}>
         <Row type="flex" justify="center">
           <Link to={`${match.url}/teamwork`}>

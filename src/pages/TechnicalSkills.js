@@ -56,7 +56,10 @@ const TechnicalSkills = ({match}) => (
           </Link>
         </Row>
       </Col>
-      <Col span = {8}>
+      </Row>
+      <br/>
+      <Row type="flex">
+      <Col span = {12}>
         <Row type="flex" justify="center">
         <Link to={`${match.url}/practice`}>
             <Card
@@ -73,7 +76,7 @@ const TechnicalSkills = ({match}) => (
           </Link>
         </Row>
       </Col>
-      <Col span = {8}>
+      <Col span = {12}>
         <Row type="flex" justify="center">
         <Link to={`${match.url}/database`}>
             <Card
