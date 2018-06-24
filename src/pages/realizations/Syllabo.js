@@ -51,13 +51,13 @@ const Syllabo = () => (
       </p>
       <p>
         Comme pour Beneylu(lien), un nouveau challenge se présente car je dois monter en compétence
-        sur du Node.js avec Express ainsi que sur du MongoDB. Mais je dois aussi m'approprier ReactJS avec Redux et Saga(liens).
+        sur du Node.js avec Express ainsi que sur du MongoDB. Mais je dois aussi m'approprier React avec Redux et Saga(liens).
         Fort de mes expériences précédentes, je me dis que je peux le faire.
       </p>
       <p>
-        Nous appliquons la méthodologie agile ou plus précisément la méthode Kanban. C'est encore nouveau et
+        Nous appliquons la méthode Kanban. C'est encore nouveau et
         j'apprécie les bienfaits de ses méthodes qui poussent à travailler dans un environnement calme,
-        serein ou l'on peut atteindre son plein potentiel.
+        serein ou l'on peut atteindre son plein potentiel. Nous utilisons Git avec Github pour le versioning.
       </p>
       <p>
         J'ai eu l'occasion de présenter quelques démonstrations de l'application auprès des collègues
