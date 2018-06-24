@@ -12,9 +12,11 @@ const Resume = () => (
         icon={<Icon type="heart" className='resume-icon'/>}
       >
         <h3 className="vertical-timeline-element-title">Développeur FullStack - Alternance</h3>
-        <h4 className="vertical-timeline-element-subtitle">Abbeal - 20 Rue Cadet, 75009 Paris</h4>
+        <h4 className="vertical-timeline-element-subtitle">
+          <a target="_blank" rel="noopener noreferrer" href="http://www.abbeal.com/">Abbeal</a> - 20 Rue Cadet, 75009 Paris
+        </h4>
         <p>
-          Référent technique sur le projet Syllabo (Node.js & Express.js, SSR, React & Redux, TDD, Agile Kanban)
+          Référent technique sur le projet Syllabo (Node.js & Express.js, SSR, React & Redux, TDD, Kanban)
         </p>
       </VerticalTimelineElement>
       <VerticalTimelineElement
@@ -24,7 +26,9 @@ const Resume = () => (
         icon={<Icon type="rocket" className='resume-icon'/>}
       >
         <h3 className="vertical-timeline-element-title">Développeur FullStack - Alternance</h3>
-        <h4 className="vertical-timeline-element-subtitle">Pixel Cookers - Immeuble Ordinal, 4 Rue des Chauffours 95000 Cergy</h4>
+        <h4 className="vertical-timeline-element-subtitle">
+          <a target="_blank" rel="noopener noreferrer" href="https://beneylu.com/school/fr/">Pixel Cookers</a> - Immeuble Ordinal, 4 Rue des Chauffours 95000 Cergy
+        </h4>
         <p>
           Développement de l'application Beneylu (PHP Symfony 2, AngularJS, Angular 5, MariaDB)
         </p>
@@ -36,7 +40,9 @@ const Resume = () => (
         icon={<Icon type="tool" className='resume-icon'/>}
       >
         <h3 className="vertical-timeline-element-title">Développeur FullStack - Alternance</h3>
-        <h4 className="vertical-timeline-element-subtitle">Klee Group - La Boursidière, 92357 Le Plessis-Robinson</h4>
+        <h4 className="vertical-timeline-element-subtitle">
+          <a target="_blank" rel="noopener noreferrer" href="http://www.kleegroup.com/site/j_6/fr/accueil">Klee Group</a> - La Boursidière, 92357 Le Plessis-Robinson
+        </h4>
         <p>
           TMA sur différents projets pour le compte du Ministère de l'Environnement, de l'Énergie et de la Mer :
         </p><br/>
@@ -55,7 +61,9 @@ const Resume = () => (
         icon={<Icon type="safety" className='resume-icon'/>}
       >
         <h3 className="vertical-timeline-element-title">Développeur BackEnd - Stage</h3>
-        <h4 className="vertical-timeline-element-subtitle">Klee Group - La Boursidière, 92357 Le Plessis-Robinson</h4>
+        <h4 className="vertical-timeline-element-subtitle">
+          <a target="_blank" rel="noopener noreferrer" href="http://www.kleegroup.com/site/j_6/fr/accueil">Klee Group</a> - La Boursidière, 92357 Le Plessis-Robinson
+          </h4>
         <p>
           Intervention sur le projet Alpha en collaboration avec les sociétés Oalia et IBM
           pour le compte du Ministère de la Défense (Java EE, Web Services)
@@ -67,7 +75,9 @@ const Resume = () => (
         iconStyle={{ background: 'rgb(233, 30, 99)', color: 'rgb(255, 255, 255)' }}
         icon={<Icon type="trophy" className='resume-icon'/>}
       >
-        <h3 className="vertical-timeline-element-title">IN'TECH</h3>
+        <h3 className="vertical-timeline-element-title">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.intechinfo.fr/">IN'TECH</a>
+        </h3>
         <h4 className="vertical-timeline-element-subtitle">Expert en Ingénierie Logicielle - Titre certifié Niveau I au RNCP</h4>
       </VerticalTimelineElement>
       <VerticalTimelineElement
@@ -77,7 +87,9 @@ const Resume = () => (
         icon={<Icon type="tool" className='resume-icon'/>}
       >
         <h3 className="vertical-timeline-element-title">Développeur PHP/Java EE - Stage</h3>
-        <h4 className="vertical-timeline-element-subtitle">AtoS - 80 Quai Voltaire, 95870 Bezons</h4>
+        <h4 className="vertical-timeline-element-subtitle">
+          <a target="_blank" rel="noopener noreferrer" href="https://atos.net/fr/">AtoS</a> - 80 Quai Voltaire, 95870 Bezons
+        </h4>
         <p>
           Amélioration du site intranet S.A.D. (Symfony 1)
         </p>
@@ -95,7 +107,9 @@ const Resume = () => (
         iconStyle={{ background: 'rgb(233, 30, 99)', color: 'rgb(255, 255, 255)' }}
         icon={<Icon type="trophy" className='resume-icon'/>}
       >
-        <h3 className="vertical-timeline-element-title">Université René Descartes (Paris V)</h3>
+        <h3 className="vertical-timeline-element-title">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.univ-paris5.fr/">Université René Descartes (Paris V)</a>
+        </h3>
         <h4 className="vertical-timeline-element-subtitle">Diplôme Universitaire de Technologie</h4>
       </VerticalTimelineElement>
     </VerticalTimeline>
