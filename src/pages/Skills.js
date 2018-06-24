@@ -5,6 +5,7 @@ import HtmlCSS from './skills/technical/HtmlCSS';
 import Javascript from './skills/technical/Javascript';
 import Webpack from './skills/technical/Webpack';
 import Practice from './skills/technical/Practice';
+import Database from './skills/technical/Database';
 
 import HumanSkills from './HumanSkills';
 import Persevere from './skills/human/Persevere';
@@ -29,6 +30,7 @@ const Skills = ({ match }) => (
     <Route path={`${match.path}/javascript`} component={Javascript} />
     <Route path={`${match.path}/webpack`} component={Webpack} />
     <Route path={`${match.path}/practice`} component={Practice} />
+    <Route path={`${match.path}/database`} component={Database} />
 
     {/* Human skills */}
     <Route path={`${match.path}/persevere`} component={Persevere} />

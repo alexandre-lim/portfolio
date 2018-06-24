@@ -73,6 +73,23 @@ const TechnicalSkills = ({match}) => (
           </Link>
         </Row>
       </Col>
+      <Col span = {8}>
+        <Row type="flex" justify="center">
+        <Link to={`${match.url}/database`}>
+            <Card
+            className='card-skill'
+            cover={<img alt="Base de données" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />}
+            hoverable={true}
+            >
+            <div style={{ textAlign: 'center', lineHeight: '25px' }}>
+              <span><strong>Base de données</strong></span>
+              <Rate disabled allowHalf defaultValue={4} />
+              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={4} style={{ color: 'red' }}/>
+            </div>
+            </Card>
+          </Link>
+        </Row>
+      </Col>
     </Row>
   </Row>
 );
