@@ -7,6 +7,12 @@ const About = () => (
     <Row type="flex" justify="center">
       <Avatar className="profil-picture" src={profilPicture} />
     </Row>
+    <Row type="flex" justify="center">
+      <h1>Développeur FullStack (Node.js & React)</h1>
+    </Row>
+    <Row type="flex" justify="center">
+      <h2>Passion et ferveur du développement web au service d'un monde meilleur</h2>
+    </Row>
     <Row type="flex" className="profil-description">
       <p>
         L'informatique, maintenant omniprésente, évolue à une vitesse extraordinaire.
