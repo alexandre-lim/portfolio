@@ -1,6 +1,7 @@
 import React from 'react';
 import { Route } from "react-router-dom";
 import TechnicalSkills from './TechnicalSkills';
+import HtmlCSS from './skills/technical/HtmlCSS';
 import Javascript from './skills/technical/Javascript';
 
 import HumanSkills from './HumanSkills';
@@ -22,6 +23,7 @@ const Skills = ({ match }) => (
   <div>
     <Route exact path={match.path} component={SkillsDefault} />
     {/* Technical skills */}
+    <Route path={`${match.path}/htmlCSS`} component={HtmlCSS} />
     <Route path={`${match.path}/javascript`} component={Javascript} />
 
     {/* Human skills */}
