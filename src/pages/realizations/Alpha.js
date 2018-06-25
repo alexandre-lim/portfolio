@@ -42,32 +42,62 @@ const Alpha = () => (
       </Row>
       <Row type="flex" className="">
         <p>
-        Au sein de l'équipe, je développais les fonctionnalités demandées en customisant le progiciel de la société Oalia.
-        Je devais respecter les documents de spécifications et le plan de charge prévu.
-        </p>
-        <p>
-
-        </p>
-        <p>
-
-        </p>
-        <p>
-
-        </p>
-        <p>
-
+          Au sein de l'équipe, je développais les fonctionnalités demandées en customisant le progiciel de la société Oalia.
+          Je devais respecter les documents de spécifications et le plan de charge prévu.
+          Le projet était développé avec du Java EE.
         </p>
       </Row>
       <Row type="flex">
-        <h2>Title</h2>
+        <h2>Méthodologie de travail</h2>
       </Row>
       <Row type="flex">
         <p>
-
+          Nous n'avions pas vraiment de méthodologie de travail à respecter à la lettre. Notre projet n'était pas non plus
+          en méthode agile.
         </p>
         <p>
-
+          J'ai surtout travaillé en binôme avec une personne fraichement diplômée.
+          Mon maitre de stage ainsi qu'un lead développeur nous encadraient et nous ont conseillé tout au long du projet.
         </p>
+        <p>
+          Les spécifications étaient rédigées l'équipe fonctionnelle. Les documents étaient bien fournis et indiquaient
+          bien nos tâches à réaliser. Le projet évoluant constamment, j'ai beaucoup côtoyé l'équipe fonctionnelle.
+        </p>
+        <p>
+          Il y avait donc beaucoup d'autonomie nous transmettions un rapport chaque semaine de l'avancée de notre travail
+          au chef de projet. Lors des phases importantes du projet, une réunion d'équipe était organisée pour faire une
+          synthèse et discuter de la suite des actions à entreprendre.
+        </p>
+        <p>
+          Les différentes phases de livraisons de l'application auprès du ministère étaient attribuées aux personnes
+          ayant une autorisation spéciale du ministère afin de pouvoir se déplacer et procéder à la livraison.
+        </p>
+      </Row>
+      <Row type="flex">
+        <h2>Une expérience enrichissante</h2>
+      </Row>
+      <Row type="flex">
+      <p>
+        La principale difficulté était la maîtrise du Framework d'Oalia. Il fallait bien saisir l'idée d'architecture
+        qu'Oalia a mise en place et suivre leurs « Best practices ». Le Framework était complet et proposait un nombre
+        important de fonctionnalités.
+      </p>
+      <p>
+        Il était quelques fois difficile de le customiser à nos besoins et de créer nos propres fonctionnalités qui
+        devaient s'intégrer correctement à l'application. Avec l'aide de mon équipe, j'ai pu m'en sortir et devenir
+        autonome lors des développements.
+      </p>
+      <p>
+        Il pouvait arriver qu'il y ait plusieurs manières de développer une fonctionnalité. Il était impératif de
+        devoir se conformer aux demandes spécifiées par Oalia. Cependant, nous avons rencontré des cas où le fait
+        de suivre les « Best practices » s'était retourné contre nous en augmentant la difficulté algorithmique
+        du code ou encore en compliquant le procédé de développement d'une fonctionnalité qui était censée être
+        simple si on suivait un cas standard.
+      </p>
+      <p>
+        Une autre difficulté a été l'estimation des tâches par manque d'expérience et de maîtrise de l'outil.
+        Le projet Alpha a été une bonne expérience pour aborder les projets suivant au sein de Klee Group.
+      </p>
       </Row>
       <br/>
       <Row type="flex" justify="center">
