@@ -1,6 +1,10 @@
 import React from 'react';
 import { Row, Tooltip } from 'antd';
 import { Link } from "react-router-dom";
+import itschool from '../../../itschool.png';
+import beneylu from '../../../beneylu.png';
+import abbeal from '../../../abbeal.png';
+import maintenance from '../../../maintenance.png';
 
 const Javascript = () => (
   <Row className= "content-row">
@@ -85,22 +89,22 @@ const Javascript = () => (
     <Row type="flex" gutter={16}>
       <Link to="/realizations/itschool" onClick={() => this.handleHrefClick('realizations')}>
         <Tooltip title="It'School">
-          <img src={""} alt="It'School" className="realizations-button"/>
+          <img src={itschool} alt="It'School" className="realizations-button"/>
         </Tooltip>
       </Link>
       <Link to="/realizations/beneylu" onClick={() => this.handleHrefClick('realizations')}>
         <Tooltip title="Beneylu">
-          <img src={""} alt="Beneylu" className="realizations-button"/>
+          <img src={beneylu} alt="Beneylu" className="realizations-button"/>
         </Tooltip>
       </Link>
       <Link to="/realizations/syllabo" onClick={() => this.handleHrefClick('realizations')}>
         <Tooltip title="Syllabo">
-          <img src={""} alt="Syllabo" className="realizations-button"/>
+          <img src={abbeal} alt="Syllabo" className="realizations-button"/>
         </Tooltip>
       </Link>
       <Link to="/realizations/maintenance" onClick={() => this.handleHrefClick('realizations')}>
         <Tooltip title="TMA">
-          <img src={""} alt="Tierce Maintenance Applicative" className="realizations-button"/>
+          <img src={maintenance} alt="Tierce Maintenance Applicative" className="realizations-button"/>
         </Tooltip>
       </Link>
     </Row>

@@ -2,6 +2,10 @@ import React from 'react';
 import { Row, Col, Card, Rate, Icon } from 'antd';
 import { Link } from "react-router-dom";
 import itschoolLogo from '../itschool.png';
+import beneylu from '../beneylu.png';
+import abbeal from '../abbeal.png';
+import alpha from '../alpha.png';
+import maintenance from '../maintenance.png';
 
 const RealizationList = ({match}) => (
   <Row className= "content-row">
@@ -27,7 +31,7 @@ const RealizationList = ({match}) => (
           <Link to={`${match.url}/beneylu`}>
             <Card
             className='card-skill'
-            cover={<img alt="Beneylu logo" src="https://cdn5-prod.bns.ovh/ent/assets/images/main/logo.png?version=1529317303" />}
+            cover={<img alt="Beneylu logo" src={beneylu} />}
             hoverable={true}
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>
@@ -43,7 +47,7 @@ const RealizationList = ({match}) => (
           <Link to={`${match.url}/syllabo`}>
             <Card
             className='card-skill'
-            cover={<img alt="Syllabo logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />}
+            cover={<img alt="Syllabo logo" src={abbeal} />}
             hoverable={true}
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>
@@ -78,7 +82,7 @@ const RealizationList = ({match}) => (
           <Link to={`${match.url}/alpha`}>
             <Card
             className='card-skill'
-            cover={<img alt="Alpha logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />}
+            cover={<img alt="Alpha logo" src={alpha} />}
             hoverable={true}
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>
@@ -94,7 +98,7 @@ const RealizationList = ({match}) => (
           <Link to={`${match.url}/maintenance`}>
             <Card
             className='card-skill'
-            cover={<img alt="Maintenance logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />}
+            cover={<img alt="Maintenance logo" src={maintenance} />}
             hoverable={true}
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Row, Tooltip } from 'antd';
 import { Link } from "react-router-dom";
+import abbeal from '../../../abbeal.png';
 
 const Practice = () => (
   <Row className= "content-row">
@@ -64,7 +65,7 @@ const Practice = () => (
     <Row type="flex" gutter={16}>
       <Link to="/realizations/syllabo" onClick={() => this.handleHrefClick('realizations')}>
         <Tooltip title="Syllabo">
-          <img src={""} alt="Syllabo" className="realizations-button"/>
+          <img src={abbeal} alt="Syllabo" className="realizations-button"/>
         </Tooltip>
       </Link>
     </Row>
