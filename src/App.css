@@ -11,6 +11,10 @@ body {
   height: inherit;
 }
 
+.layout {
+  height: 100%
+}
+
 .app-header {
   background: white;
   position: fixed;
