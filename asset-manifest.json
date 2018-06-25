@@ -1,14 +1,21 @@
 {
-  "main.css": "static/css/main.8eaa0eed.css",
-  "main.css.map": "static/css/main.8eaa0eed.css.map",
-  "main.js": "static/js/main.0c63d5b3.js",
-  "main.js.map": "static/js/main.0c63d5b3.js.map",
+  "main.css": "static/css/main.2688ad4f.css",
+  "main.css.map": "static/css/main.2688ad4f.css.map",
+  "main.js": "static/js/main.329bd33b.js",
+  "main.js.map": "static/js/main.329bd33b.js.map",
+  "static\\media\\abbeal.png": "static/media/abbeal.5f0ddbf6.png",
   "static\\media\\alexandre.png": "static/media/alexandre.7c010d8e.png",
+  "static\\media\\alpha.png": "static/media/alpha.397e360e.png",
+  "static\\media\\database.png": "static/media/database.d29110f3.png",
   "static\\media\\empathy.png": "static/media/empathy.19eced43.png",
   "static\\media\\failure.png": "static/media/failure.c76a4a67.png",
+  "static\\media\\html-css.png": "static/media/html-css.8954eac2.png",
   "static\\media\\integrity.png": "static/media/integrity.b173ca72.png",
   "static\\media\\itschool.png": "static/media/itschool.8cad5ed4.png",
   "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg",
+  "static\\media\\maintenance.png": "static/media/maintenance.b86dfe75.png",
   "static\\media\\persevere.png": "static/media/persevere.b312ef9a.png",
-  "static\\media\\teamwork.png": "static/media/teamwork.8d9e263c.png"
+  "static\\media\\practice.png": "static/media/practice.3236f720.png",
+  "static\\media\\teamwork.png": "static/media/teamwork.8d9e263c.png",
+  "static\\media\\webpack.png": "static/media/webpack.c500a380.png"
 }
