@@ -37,8 +37,8 @@ const TechnicalSkills = ({match}) => (
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>
               <span><strong>JavaScript</strong></span>
-              <Rate disabled allowHalf defaultValue={3.5} />
-              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={4} style={{ color: 'red' }}/>
+              <Rate disabled allowHalf defaultValue={4} />
+              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={5} style={{ color: 'red' }}/>
             </div>
             </Card>
           </Link>

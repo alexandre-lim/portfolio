@@ -20,7 +20,7 @@ const HumanSkills = ({match}) => (
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>
               <span><strong>Persévérer</strong></span>
-              <Rate disabled allowHalf defaultValue={5} />
+              <Rate disabled allowHalf defaultValue={4.5} />
               <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={5} style={{ color: 'red' }}/>
             </div>
             </Card>

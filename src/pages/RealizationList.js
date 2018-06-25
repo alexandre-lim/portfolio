@@ -88,7 +88,7 @@ const RealizationList = ({match}) => (
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>
               <span><strong>ALPHA</strong></span>
-              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={3.5} style={{ color: 'red' }}/>
+              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={3} style={{ color: 'red' }}/>
             </div>
             </Card>
             </Link>
@@ -104,7 +104,7 @@ const RealizationList = ({match}) => (
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>
               <span><strong>TMA</strong></span>
-              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={4} style={{ color: 'red' }}/>
+              <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={3.5} style={{ color: 'red' }}/>
             </div>
             </Card>
             </Link>
