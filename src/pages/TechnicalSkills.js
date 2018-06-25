@@ -2,6 +2,7 @@ import React from 'react';
 import { Row, Col, Card, Rate, Icon } from 'antd';
 import { Link } from "react-router-dom";
 import htmlCSS from '../html-css.png';
+import javascript from '../javascript.png';
 import webpack from '../webpack.png';
 import practice from '../practice.png';
 import database from '../database.png';
@@ -31,7 +32,7 @@ const TechnicalSkills = ({match}) => (
           <Link to={`${match.url}/javascript`}>
             <Card
             className='card-skill'
-            cover={<img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />}
+            cover={<img alt="JavaScript" src={javascript} />}
             hoverable={true}
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>
