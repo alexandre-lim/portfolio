@@ -53,7 +53,7 @@ const Improvit = () => (
         <p>
           Malgré les différentes personnalités de l'équipe, nous avons su travailler ensemble pour
           produire un livrable professionnel de qualité. Nous avons géré un planning, une trésorerie, et
-          communiquer au sein de l'école mais aussi en dehors à travers les réseaux sociaux et à l'aide de
+          communiqué au sein de l'école mais aussi en dehors à travers les réseaux sociaux et à l'aide de
           flyers personnalisés. Nous avons su défendre et mettre en avant l'intérêt de notre projet au sein
           d'une école d'ingénieur afin de collaborer gratuitement avec deux intervenants expérimentés.
         </p>
