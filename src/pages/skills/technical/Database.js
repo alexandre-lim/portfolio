@@ -79,7 +79,7 @@ const Database = () => (
         </p>
       </Row>
       <Row type="flex">
-        <h2>Retour d'expériences</h2>
+        <h2>Retour d'expérience</h2>
       </Row>
       <Row type="flex">
         <p>
