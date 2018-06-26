@@ -17,22 +17,24 @@ const HtmlCSS = () => (
       </Row>
       <Row type="flex" className="">
         <p>
-          HTML (HyperText Markup Language) et CSS (Cascading Style Sheets) sont deux langages de programmation indispensables
+          <span className="span-bold">HTML (HyperText Markup Language) et CSS (Cascading Style Sheets)</span> sont deux langages de programmation indispensables
           lorsque l'on créer des sites web. Un site web est ce que toute personne voit lorsqu'elle utilise ce qu'on appelle un
-          navigateur web dont les plus connus sont : Chrome, Safari, Firefox et Internet Explorer. Le code HTML et CSS
+          navigateur web dont les plus connus sont : <span className="span-bold">Chrome, Safari, Firefox et Internet Explorer.</span> Le code HTML et CSS
           sont « traduits » par le navigateur qui permet ainsi le rendu d'un site web.
         </p>
         <p>
-          Le langage HTML a été inventé par Tim Berners-Lee en 1991. Il permet de gérer et organiser le contenu d'un site web.
+          Le langage HTML a été inventé par <span className="span-bold">Tim Berners-Lee en 1991</span>. Il permet de gérer et organiser le contenu d'un site web.
           Nous écrivons ce que nous souhaitons voir dans notre page comme la mise en place d'un titre, l'affichage d'une image etc.
-          Nous construisons donc le squelette du site web.
+          Nous construisons donc le <span className="span-bold">squelette</span> du site web.
         </p>
         <p>
-          Le CSS va habiller notre squelette et lui donner forme. Il permet de gérer l'apparence de la page web et
-          même permettre quelques petites animations. Le CSS est complémentaire au HTML et prend vie en 1996.
+          Le CSS va <span className="span-bold">habiller</span> notre squelette et lui donner forme. Il permet de gérer l'apparence de la page web et
+          même permettre quelques petites animations. Le CSS est <span className="span-bold">complémentaire</span>
+          au HTML et prend vie en 1996.
         </p>
         <p>
-          Il existe différentes versions des langages et actuellement nous sommes à la version 5 pour le HTML et 3 pour le CSS.
+          Il existe différentes versions des langages et actuellement nous sommes à la <span className="span-bold">
+          version 5 pour le HTML et 3 pour le CSS.</span>
         </p>
       </Row>
       <Row type="flex">
@@ -45,11 +47,11 @@ const HtmlCSS = () => (
         </p>
         <p>
           Lorsque la base de code grandie, l'écriture du code CSS peut-être difficile à maintenir et manque de flexibilité.
-          Pour pallier ce problème, nous avons un préprocesseur CSS, un programme qui permet de générer dynamiquement des
+          Pour pallier ce problème, nous avons un <span className="span-bold">préprocesseur CSS</span>, un programme qui permet de générer dynamiquement des
           fichier CSS. J'ai utilisé différents préprocesseurs comme
           <a target="_blank" rel="noopener noreferrer" href="http://lesscss.org//"> LESS </a>et
           <a target="_blank" rel="noopener noreferrer" href="https://sass-lang.com/"> Sass </a>
-          pour les projets Beneylu et Syllabo.
+          pour les projets <span className="span-bold">Beneylu et Syllabo.</span>
         </p>
       </Row>
       <Row type="flex">
