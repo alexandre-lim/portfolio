@@ -22,15 +22,15 @@ const Persevere = () => (
       </Row>
       <Row type="flex" className="skill-introduction">
         <p>
-          Pourquoi persévérer ? Ma réponse est que persévérer est un des facteurs qui permet la réussite personnelle
-          et professionnelle. Cette qualité peut se travailler à chaque instant et j'ai fais le choix de l'intégrer
+          Pourquoi persévérer ? Ma réponse est que persévérer est un des facteurs qui permet <span className="span-bold">la réussite personnelle
+          et professionnelle.</span> Cette qualité peut se travailler à chaque instant et j'ai fais le choix de l'intégrer
           dans ma routine quotidienne.
         </p>
         <p>
           Elle m'appuie dans mon métier de développeur web.
           Le monde numérique évolue constamment et de nouveaux challenges apparaissent.
           Face à ce monde changeant et à la compétition grandissante, il est devenu indispensable de pratiquer
-          la veille technologique et de se former en continue.
+          <span className="span-bold"> la veille technologique et de se former en continue.</span>
         </p>
         <p>
           Persévérer dans le domaine du web entraîne une rigueur dans l'écriture du code et le respect des bonnes pratiques
@@ -48,10 +48,10 @@ const Persevere = () => (
         <p>
           Lors de mes 15 ans, j'ai rejoint le club de Volley-Ball en section compétition.
           À mes débuts, cela a été extrêmement difficile. Le coach me réprimandait et je sentais que je ralentissais
-          le flow d'entrainement de l'équipe déjà de haut niveau. J'étais le seul nouveau, le restant de l'équipe
-          avait au minimum 2-3 ans d'entrainement derrière eux. Je me rappelle encore du moment où je n'arrivais
-          pas à servir et que le coach a attendu jusqu'à que je passe cinq services d'affilé qu'il jugeait correct.
-          Sous pression, j'ai pensé à lâcher la balle et m'en aller, mais j'ai serré les dents et relevé ce challenge.
+          le flow d'entrainement de l'équipe déjà de haut niveau. J'étais le seul nouveau, le reste de l'équipe
+          avait au minimum 2-3 années d'entrainement derrière eux. Je me rappelle encore du moment où je n'arrivais
+          pas à servir et que le coach a attendu jusqu'à que je passe cinq services d'affilés qu'il jugeait correct.
+          Sous pression, j'ai pensé à lâcher la balle et m'en aller, mais j'ai <span className="span-bold">serré les dents et relevé ce challenge.</span>
         </p>
         <p>
           Malgré ma forte timidité et ma petite stature, j'ai su insister et contre toute attente, atteindre le niveau régional
@@ -68,8 +68,8 @@ const Persevere = () => (
           Je peux maintenant envisager de plus grands objectifs encore impensables lors de mes débuts tel que les nationales.
         </p>
         <p>
-          Dans l'atteinte de mes objectifs, la notion de persévérance s'est traduite par une régularité des entrainements,
-          un dépassement constant de soi et l'écoute des conseils du coach et de mes coéquipiers.
+          Dans l'atteinte de mes objectifs, la notion de persévérance s'est traduite par <span className="span-bold">une régularité des entrainements,
+          un dépassement constant de soi et l'écoute des conseils du coach et de mes coéquipiers. </span>
           Des études théoriques et stratégiques en dehors du terrain ont été nécessaires et il a fallu supporter la forte exigence
           du coach et de l'équipe.
         </p>
@@ -84,17 +84,17 @@ const Persevere = () => (
         </p>
         <p>
           Ma persévérance au sein de mes expériences en entreprise m'a permis un rendu de travail de qualité et peu de retour
-          de bugs du client au cours de mon passage sur les projets ISIDOR et Natura 2000 (liens à mettre en place).
+          de bugs du client au cours de mon passage sur les <span className="span-bold">projets ISIDOR et Natura 2000. </span>
           Des solutions efficaces et durables ont été mises en place pour répondre aux problèmes rencontrés.
         </p>
         <p>
-          ISIDOR et Natura 2000 sont des projets en TMA conséquentes et existent depuis plus de 5 ans.
+          ISIDOR et Natura 2000 sont des projets en TMA conséquents et existent depuis plus de 5 ans.
           La base de code est énorme, les fonctionnalités nombreuses et le système complexe. Face à de tel projet,
           il faut de la patience et ne pas abandonner face aux bugs qui peuvent paraître impossible à trouver ou à résoudre.
         </p>
         <p>
-          Face aux obstacles et à l'adversité, je choisi de persévérer car je suis persuadé que
-          ce sont les petits efforts de tous les jours qui font la différence.
+          Face aux obstacles et à l'adversité, je choisi de persévérer car <span className="span-bold">je suis persuadé que
+          ce sont les petits efforts de tous les jours qui font la différence.</span>
         </p>
       </Row>
       <Row type="flex">

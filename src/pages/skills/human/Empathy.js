@@ -22,7 +22,7 @@ const Empathy = () => (
       <Row type="flex" className="skill-introduction">
         <p>
           Le monde se numérise et se digitalise. L'ordinateur et le smartphone sont devenu des outils intégrants de notre quotidien.
-          La surexposition à ces outils dans notre vie social et professionnel peut créer des êtres dénués d'émotions ne sachant
+          La surexposition à ces outils dans notre vie social et professionnelle peut créer des êtres dénués d'émotions ne sachant
           plus communiquer qu'à travers ces machines.
         </p>
         <p>
@@ -33,7 +33,7 @@ const Empathy = () => (
         <p>
           Selon moi, les millions de lignes de codes produites représentent un monde gris et froid. En tant que développeur
           nous vivons dans ce monde une grande partie de la journée. Une fois sorti de ce monde, pour ne pas percevoir son
-          entourage tout en gris, l'empathie nous aide à recolorer son espace et à remettre les pieds sur notre belle planète.
+          entourage tout en gris, l'empathie nous aide à <span className="span-bold">recolorer son espace et à remettre les pieds sur notre belle planète. </span>
           En s'identifiant à autrui et ces émotions tout en faisant la distinction des nôtres, nous redevenons humains,
           un être créatif au potentiel illimité.
         </p>
@@ -44,24 +44,24 @@ const Empathy = () => (
       <Row type="flex" className="">
         <p>
           Poursuivant ma quête pour devenir un bon développeur, je passais un temps considérable dans mes lignes de codes
-          ne comptant plus les heures. Une routine s'était donc installée avec le fameux métro- boulot-dodo.
+          ne comptant plus les heures. Une routine s'était donc installée avec le fameux <span className="span-bold">métro-boulot-dodo. </span>
           De nature introverti, je ne prenais plus de temps pour mon entourage et mes moments d'introspection.
           J'étais pris au piège dans ce monde tout en gris et cela m'affectait de plus en plus.
         </p>
         <p>
-          Puis un jour, je pris le temps de voir un bon vieil ami, aventureux et aimant la liberté par-dessus tout.
-          Il me raconta avec passions ces aventures et ses déboires dans plusieurs pays. L'empathie à jouer un rôle primordial.
-          Je me suis fortement identifié aux aventures en m'imaginant les vivres aussi. Cela à crée en moi de vives émotions et
+          Puis un jour, j'ai pris le temps de voir un bon vieil ami, aventureux et aimant la liberté par-dessus tout.
+          Il me raconta avec passion ces aventures et ses déboires dans plusieurs pays. L'empathie a joué un rôle primordial.
+          Je me suis fortement <span className="span-bold">identifié</span> aux aventures en m'imaginant les vivres aussi. Cela a crée en moi de vives émotions et
           je me suis pris comme une gifle en pleine figure qui me réveilla de mon cauchemar. Il était temps d'agir et changer ma situation.
         </p>
         <p>
-          Je me suis rendu compte de l'importance de l'équilibre de vie dont j'avais besoin pour rester moi-même et
+          Je me suis rendu compte de l'importance de <span className="span-bold">l'équilibre de vie</span> dont j'avais besoin pour rester moi-même et
           atteindre mes objectifs. Il est parfois nécessaire de créer ce déséquilibre mais en le gérant correctement
           pour que tout ne s'effondre pas.
         </p>
         <p>
           L'empathie peur apporter énormément lors de nos relations avec autrui mais il ne faut pas oublier que
-          c'est un allié de taille pour soi-même. Je pense que mon empathie m'aide à devenir un bon développeur
+          c'est un <span className="span-bold">allié de taille pour soi-même. </span>Je pense que mon empathie m'aide à devenir un bon développeur
           car cette expérience est une leçon qu'aucun bouquin technique ne pouvait me donner.
         </p>
       </Row>
@@ -71,11 +71,11 @@ const Empathy = () => (
       <Row type="flex">
         <p>
           L'empathie participe à la construction d'un environnement professionnel sein.
-          L'impact dans les performances individuelles et en équipes n'est pas négligeable.
+          L'impact dans les performances individuelles et en équipe n'est pas négligeable.
         </p>
         <p>
-          Lors de mes réunions techniques ou client, je n'oublie pas d'utiliser mon empathie lorsqu'une personne prend la parole.
-          Je pense qu'il est important de prendre du recul sur tout ce qui est dit ainsi que la situation pour par exemple décider
+          Lors de mes réunions technique ou client, je n'oublie pas d'utiliser mon empathie lorsqu'une personne prend la parole.
+          Je pense qu'il est important de <span className="span-bold">prendre du recul</span> sur tout ce qui est dit ainsi que la situation pour par exemple décider
           de façon plus équitable sur des sujets importants.
         </p>
       </Row>
