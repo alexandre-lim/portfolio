@@ -75,7 +75,7 @@ body {
   padding: 32px;
 }
 
-.ant-row .skill-content, .ant-row .realization-content {
+.ant-row .skill-content, .ant-row .realization-content, .quote-content {
   max-width: 1000px;
   margin: 0 auto;
 }
