@@ -40,7 +40,7 @@ const Javascript = () => (
       <Row type="flex" className="">
         <p>
           Lors de mon expérience sur le projet <span className="span-bold">ISIDOR</span>, j'ai eu la chance de pouvoir coder intensivement en
-          <span className="span-bold">JavaScript Vanilla</span>,
+          <span className="span-bold"> JavaScript Vanilla, </span>
           c'est-à-dire du JavaScript pur, sans une librairie comme
           <a target="_blank" rel="noopener noreferrer" href="https://jquery.com/"> JQuery </a> et n'étant pas en ES6.
         </p>

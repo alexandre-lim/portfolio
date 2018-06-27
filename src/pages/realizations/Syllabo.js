@@ -26,12 +26,12 @@ const Syllabo = () => (
           Abbeal Valley, c'est l'opportunité qu'offre Abbeal de mener à bien des produits en interne.
           Les produits sont proposés par les collaborateurs.  Une première présélection est réalisée afin de
           déterminer les propositions de produits les plus aboutis. Une fois cette première étape passée, la personne
-          portant le produit devient Product Owner. Abbeal se charge des différents aspects extérieurs comme les
+          portant le produit devient <span className="span-bold">Product Owner.</span> Abbeal se charge des différents aspects extérieurs comme les
           partenariats avec différentes écoles qui participeront au développement du projet.
         </p>
         <p>
-          Syllabo est un des projets retenus. Dans un premier temps, le produit a été développé par un groupe d'étudiants.
-          J'intègre Abbeal Valley afin de pousser le produit jusqu'au étoiles.
+          Syllabo est un des projets retenu. Dans un premier temps, le produit a été développé par un groupe d'étudiants.
+          J'intègre Abbeal Valley afin de pousser le produit <span className="span-bold">jusqu'au étoiles.</span>
         </p>
       </Row>
       <Row type="flex">
@@ -39,7 +39,7 @@ const Syllabo = () => (
       </Row>
       <Row type="flex" className="">
         <p>
-          Syllabo est une application ludo-éducative qui propose de se placer en complément du système scolaire pour
+          Syllabo est une <span className="span-bold">application ludo-éducative</span> qui propose de se placer en complément du système scolaire pour
           des enfants du primaire. L'enfant vivra une immersion culturelle et sera plongé dans un environnement
           historique en commençant par la Grèce antique. Syllabo proposera ensuite des éléments ludiques,
           mathématiques, scientifiques, géographiques et littéraires.
@@ -50,20 +50,27 @@ const Syllabo = () => (
       </Row>
       <Row type="flex">
         <p>
-          Mon aventure avec Beneylu(lien) s'est terminée et me voici à développer pour ce magnifique produit qu'est Syllabo.
+          Mon aventure avec <span className="span-bold">Beneylu</span> s'est terminée et me voici à développer pour ce magnifique produit qu'est Syllabo.
           Cette fois, je pars presque de zéro et quel bonheur ! Je vis en ce moment mon rêve car je ressens les mêmes émotions
-          que lorsque j'étais sur It'School(lien). Mon équipe n'est certes pas là, mais ce que je veux apporter à l'aide mon métier,
+          que lorsque j'étais sur <span className="span-bold">It'School.</span> Mon équipe n'est certes pas là, mais ce que je veux apporter à l'aide mon métier,
           mon but et mon rêve se retrouvent au travers de Syllabo.
         </p>
         <p>
-          Comme pour Beneylu(lien), un nouveau challenge se présente car je dois monter en compétence
-          sur du Node.js avec Express ainsi que sur du MongoDB. Mais je dois aussi m'approprier React avec Redux et Saga(liens).
+          Comme pour Beneylu, un nouveau challenge se présente car je dois <span className="span-bold">monter en compétence </span>
+          sur du
+          <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/about/"> Node.js </a>avec
+          <a target="_blank" rel="noopener noreferrer" href="http://expressjs.com/"> Express.js </a>ainsi que sur du
+          <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com/"> MongoDB. </a>Mais je dois aussi m'approprier
+          <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/"> React </a> avec
+          <a target="_blank" rel="noopener noreferrer" href="https://redux.js.org/"> Redux </a> et
+          <a target="_blank" rel="noopener noreferrer" href="https://redux-saga.js.org/"> Saga. </a>
           Fort de mes expériences précédentes, je me dis que je peux le faire.
         </p>
         <p>
-          Nous appliquons la méthode Kanban. C'est encore nouveau et
-          j'apprécie les bienfaits de ses méthodes qui poussent à travailler dans un environnement calme,
-          serein ou l'on peut atteindre son plein potentiel. Nous utilisons Git avec Github pour le versioning.
+          Nous appliquons la <span className="span-bold">méthode Kanban.</span> C'est encore nouveau et
+          j'apprécie les bienfaits de cette méthode qui pousse à travailler dans un environnement calme,
+          serein où l'on peut atteindre son plein potentiel. Nous utilisons <span className="span-bold">Git</span> avec
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/"> Github </a>pour le versioning.
         </p>
         <p>
           J'ai eu l'occasion de présenter quelques démonstrations de l'application auprès des collègues

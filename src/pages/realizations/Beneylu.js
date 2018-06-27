@@ -27,7 +27,7 @@ const Beneylu = () => (
           L'équipe est soudée et l'ambiance de travail studieuse pour atteindre nos objectifs.
         </p>
         <p>
-          Beneylu propose un espace numérique de travail (ENT). Un ENT permet de numériser les outils papiers comme le
+          Beneylu propose un <span className="span-bold">espace numérique de travail (ENT).</span> Un ENT permet de numériser les outils papiers comme le
           cahier de texte ou encore le carnet de liaison. Le cartable de l'enfant s'en retrouve allégé.
           L'espace donne aussi accès à un blog afin de partager du contenu avec les élèves, parents et même
           d'autres classes ou écoles. L'école, l'enfant mais aussi les parents sont impliqués lors de l'utilisation de Beneylu.
@@ -42,14 +42,14 @@ const Beneylu = () => (
       </Row>
       <Row type="flex" className="">
         <p>
-          Après l'aventure intense It'School(lien), je me suis donné les moyens afin d'intégrer une entreprise
-          travaillant dans le domaine éducatif de l'enfance. C'est donc une suite
+          Après l'aventure intense <span className="span-bold">It'School</span>, je me suis donné les moyens afin d'intégrer une entreprise
+          qui travaille dans le domaine éducatif de l'enfance. C'est donc une suite
           logique que de me retrouver au sein de Pixel Cookers et participer au développement de l'application Beneylu.
         </p>
         <p>
-          L'équipe étant petite, chaque personne avait un rôle important et j'avais donc beaucoup plus de
-          responsabilités que mes missions précédentes. J'évoluais vers de nouvelles technologies qui étaient
-          PHP avec Symfony 2 et AngularJS. Je devais donc m'adapter pour monter en compétence afin d'endosser les tâches à venir.
+          L'équipe étant petite, chaque personne avait un rôle important et j'avais donc beaucoup <span className="span-bold">plus de
+          responsabilités</span> que mes missions précédentes. J'évoluais vers de nouvelles technologies qui étaient
+          <span className="span-bold"> PHP avec Symfony 2 et AngularJS</span>. Je devais donc m'adapter pour monter en compétence afin d'endosser les tâches à venir.
           Mes précédentes expériences m'ont énormément aidé à prendre en main rapidement les technologies
           ainsi que l'architecture du projet. L'application avait environ 10 années d'existence et donc une base de code énorme.
         </p>
@@ -57,7 +57,7 @@ const Beneylu = () => (
           Les lundis étaient consacrés à la maintenance de l'application pour corriger des bugs ou améliorer
           des fonctionnalités existantes. Les bugs ou améliorations sont le plus souvent remontés par les utilisateurs.
           Une des surprises que j'ai eu étaient que tous les midis, l'équipe répondait à des questions provenant des
-          utilisateurs de l'application. Je trouvais le concept génial car on a un feedback immédiat concernant
+          utilisateurs de l'application. Je trouvais le concept génial car on a un <span className="span-bold">feedback immédiat</span> concernant
           l'utilisation de Beneylu et nous sommes aux plus proches des enseignants et parents. Le revers de la médaille
           est le temps que nous prenions à répondre.
         </p>
@@ -67,13 +67,13 @@ const Beneylu = () => (
       </Row>
       <Row type="flex">
         <p>
-          Très vite, j'ai été sollicité afin de mener à bien une tâche importante. J'avais le soutien de mon équipe notamment
-          du lead développeur mais le but était que je me débrouille au maximum en autonomie afin de produire le livrable
+          Très vite, j'ai été sollicité afin de mener à bien une tâche importante. J'avais le soutien de mon équipe, notamment
+          du lead développeur mais le but était que je me débrouille au maximum en <span className="span-bold">autonomie</span> afin de produire le livrable
           en temps et en heure.
         </p>
         <p>
-          Paris a été désigné pour accueillir les Jeux Olympiques de 2024. En partenariat avec le gouvernement, j'ai été
-          en charge de piloter et développer une application pour la semaine olympique et paralympique
+          Paris a été désignée pour accueillir les Jeux Olympiques de 2024. En partenariat avec le gouvernement, j'ai été
+          en charge <span className="span-bold">de piloter et développer une application</span> pour la semaine olympique et paralympique
           se déroulant du 27 Janvier au 3 février 2018.
         </p>
         <p>
@@ -87,8 +87,8 @@ const Beneylu = () => (
         <p>
           Ce fut un challenge immense de part la complexité technique de l'application mais
           surtout les délais à tenir. Je suis donc fier du travail réalisé et heureux de l'opportunité donnée par
-          l'entreprise de mener à bien ce chantier. Ils m'ont fait confiance et ont cru en mes capacités à réussir ce projet.
-          Je n'oublierai pas de sitôt mon expérience au sein de Pixel Cookers.
+          l'entreprise de mener à bien ce chantier. Ils m'ont fait <span className="span-bold">confiance et ont cru en mes capacités</span> à réussir ce projet.
+          Je n'oublierai pas de si tôt mon expérience au sein de Pixel Cookers.
         </p>
       </Row>
       <br/>

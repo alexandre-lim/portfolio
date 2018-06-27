@@ -29,7 +29,7 @@ const HtmlCSS = () => (
         </p>
         <p>
           Le CSS va <span className="span-bold">habiller</span> notre squelette et lui donner forme. Il permet de gérer l'apparence de la page web et
-          même permettre quelques petites animations. Le CSS est <span className="span-bold">complémentaire</span>
+          même permettre quelques petites animations. Le CSS est <span className="span-bold">complémentaire </span>
           au HTML et prend vie en 1996.
         </p>
         <p>

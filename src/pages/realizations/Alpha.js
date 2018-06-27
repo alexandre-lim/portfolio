@@ -44,7 +44,7 @@ const Alpha = () => (
         <p>
           Au sein de l'équipe, je développais les fonctionnalités demandées en customisant le progiciel de la société Oalia.
           Je devais respecter les documents de spécifications et le plan de charge prévu.
-          Le projet était développé avec du Java EE.
+          Le projet était développé avec du <span className="span-bold">Java EE.</span>
         </p>
       </Row>
       <Row type="flex">
@@ -57,14 +57,14 @@ const Alpha = () => (
         </p>
         <p>
           J'ai surtout travaillé en binôme avec une personne fraichement diplômée.
-          Mon maitre de stage ainsi qu'un lead développeur nous encadraient et nous ont conseillé tout au long du projet.
+          Mon maître de stage ainsi qu'un lead développeur nous encadraient et nous ont conseillé tout au long du projet.
         </p>
         <p>
           Les spécifications étaient rédigées l'équipe fonctionnelle. Les documents étaient bien fournis et indiquaient
           bien nos tâches à réaliser. Le projet évoluant constamment, j'ai beaucoup côtoyé l'équipe fonctionnelle.
         </p>
         <p>
-          Il y avait donc beaucoup d'autonomie nous transmettions un rapport chaque semaine de l'avancée de notre travail
+          Il y avait donc <span className="span-bold">beaucoup d'autonomie</span> et nous transmettions un rapport chaque semaine de l'avancée de notre travail
           au chef de projet. Lors des phases importantes du projet, une réunion d'équipe était organisée pour faire une
           synthèse et discuter de la suite des actions à entreprendre.
         </p>
@@ -84,7 +84,7 @@ const Alpha = () => (
       </p>
       <p>
         Il était quelques fois difficile de le customiser à nos besoins et de créer nos propres fonctionnalités qui
-        devaient s'intégrer correctement à l'application. Avec l'aide de mon équipe, j'ai pu m'en sortir et devenir
+        devaient s'intégrer correctement à l'application. Avec <span className="span-bold">l'aide de mon équipe</span>, j'ai pu m'en sortir et devenir
         autonome lors des développements.
       </p>
       <p>
@@ -95,7 +95,7 @@ const Alpha = () => (
         simple si on suivait un cas standard.
       </p>
       <p>
-        Une autre difficulté a été l'estimation des tâches par manque d'expérience et de maîtrise de l'outil.
+        Une autre difficulté a été <span className="span-bold">l'estimation des tâches</span> par manque d'expérience et de maîtrise de l'outil.
         Le projet Alpha a été une bonne expérience pour aborder les projets suivant au sein de Klee Group.
       </p>
       </Row>

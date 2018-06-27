@@ -22,19 +22,19 @@ const ItSchool = () => (
       </Row>
       <Row type="flex" className="">
         <p>
-          L'application It'School est une plateforme à destination des écoles primaires où des enseignants pourront numériser
-          leurs exercices au sein de jeux éducatifs et les proposer aux élèves. Ainsi, les enfants apprennent tout en
+          L'application It'School est une plateforme à destination <span className="span-bold">des écoles primaires où des enseignants pourront numériser
+          leurs exercices au sein de jeux éducatifs et les proposer aux élèves.</span> Ainsi, les enfants apprennent tout en
           s'amusant et s'initient aux nouvelles technologies dans un cadre bienveillant.
         </p>
         <p>
-          Le projet It'School a été réalisée dans le cadre de mes études. L'équipe était composée de trois personnes.
+          Le projet It'School a été réalisé dans le cadre de mes études. L'équipe était composée de trois personnes.
           Nous avons développé l'application pendant une année et les six derniers mois ont été réalisés en collaboration
-          avec l'école privée SLNDBA.
+          avec l'école privée <a target="_blank" rel="noopener noreferrer" href="http://www.slndba.fr/">SLNDBA.</a>
         </p>
         <p>
           Nous souhaitions confronter notre MVP au monde réel et récupérer le maximum de feedback afin d'améliorer en continu
-          notre produit. Mais le but principal de cette démarche était de savoir si un besoin existait et si notre produit
-          était capable d'y répondre.
+          notre produit. Mais le but principal de cette démarche était de savoir si <span className="span-bold">un besoin existait et si notre produit
+          était capable d'y répondre.</span>
         </p>
       </Row>
       <Row type="flex">
@@ -43,12 +43,12 @@ const ItSchool = () => (
       <Row type="flex" className="">
         <p>
           Le projet était ambitieux techniquement et l'attente de l'école par rapport à notre produit considérable.
-          Cela nous a amené à nous surpasser pour créer une cohésion d'équipe forte et durable afin d'encaisser
+          Cela nous a amené à nous surpasser pour créer une <span className="span-bold">cohésion d'équipe forte et durable</span> afin d'encaisser
           toutes les tempêtes. Le chemin a été semé d'embuches où nous avons essuyé échecs et réussites.
         </p>
         <p>
           Nous étions souvent déchirés entre notre conscience de développeur adhérant
-          au Craftsmanship (http://manifesto.softwarecraftsmanship.org/) et délivrer un produit répondant aux attentes
+          au  <a target="_blank" rel="noopener noreferrer" href="http://manifesto.softwarecraftsmanship.org/">Craftsmanship</a> et délivrer un produit répondant aux attentes
           de l'école dans un temps imparti.
         </p>
         <p>
@@ -64,11 +64,11 @@ const ItSchool = () => (
         <p>
           Dans un premier temps, le réseau internet n'était pas correctement configuré pour pouvoir autoriser
           toutes les tablettes à se connecter. Une fois réglé, c'est la portée de la connexion wifi vers les classes
-          qui pose soucis. C'est la première fois qu'une classe de l'école utilisait les tablettes. De ce fait,
+          qui posait soucis. C'est la première fois qu'une classe de l'école utilisait les tablettes. De ce fait,
           l'organisation était terrible, l'enseignante ne savait pas trop quoi faire et l'excitation des enfants
           mettait un joli désordre. Nous avons pu tester notre application quelques instants mais l'application
           est tombée en panne car les requêtes serveurs étaient limitées.
-          Nous avons donc pris un choix difficile : nous avons arrêté l'expérience pour revenir une autre fois.
+          Nous avons donc pris un choix difficile : <span className="span-bold">nous avons arrêté l'expérience pour revenir une autre fois.</span>
         </p>
       </Row>
       <Row type="flex">
@@ -76,34 +76,34 @@ const ItSchool = () => (
       </Row>
       <Row type="flex">
         <p>
-          De retour de cette expérience, nous avons pris le temps de digérer cet échec pour rebondir de plus belles.
-          Nous nous sommes procuré un relai wifi et avons discuté avec l'enseignante afin de partager la classe en deux.
+          De retour de cette expérience, nous avons pris le <span className="span-bold">temps de digérer cet échec pour rebondir</span> de plus belle.
+          Nous nous sommes procurés un relai wifi et avons discuté avec l'enseignante afin de partager la classe en deux.
           Un groupe utilisera les tablettes puis nous inversons les rôles. Nous avons également pris un abonnement
           temporaire afin d'avoir un nombre de requêtes serveur suffisant. Nous voilà donc de retour
           pour notre dernière séance avec l'école.
         </p>
         <p>
-          Les résultats ont été plus que concluant. C'est une belle réussite.
-          La grande déception de notre précédente visite n'a pas été en vain et nous avons pu la transformer en force.
+          Les résultats ont été plus que concluant. C'était une belle réussite.
+          La grande déception de notre précédente visite n'a pas été en vain et nous avons pu <span className="span-bold">la transformer en force. </span>
           Le seul bémol est que le groupe travaillant sur papier était trop distrait par celui utilisant les tablettes,
           mais peut-on les en vouloir ?
         </p>
         <p>
           Nous sommes sorties plus fort techniquement et humainement de cette aventure.
-          Nous avons appris à développer un produit de qualité tout en n'oubliant pas les besoins de nos utilisateurs.
-          Nous avons su défendre et pitcher notre application. L'école a été bien satisfaite mais déçue de
+          Nous avons appris à développer <span className="span-bold">un produit de qualité tout en n'oubliant pas les besoins de nos utilisateurs. </span>
+          Nous avons su défendre et pitcher notre application. L'école a été satisfaite mais déçue de
           notre départ en alternance. Concernant l'équipe, nous avons tissé des liens forts. Plus que des amis,
           je les considère comme mes frères et espère continuer un jour cette aventure avec eux.
         </p>
         <p>
           Je suis extrêmement fier de ce que nous avons accompli et j'ai pu trouver le pourquoi de mon métier
-          et un de mes rêves. Je souhaite mettre de ma personne au service d'autrui
-          et réaliser une application immersive pour les enfants souhaitant apprendre différemment
+          et un de mes rêves. <span className="span-bold">Je souhaite mettre de ma personne au service d'autrui
+          et réaliser une application immersive pour les enfants</span> souhaitant apprendre différemment
           à l'aide des nouvelles technologies.
         </p>
         <p>
           Je continue donc ma route afin de réaliser ce rêve et pour cela j'ai pris grand plaisir à développer
-          pour les projets Beneylu(lien) et Syllabo(lien).
+          pour les projets <span className="span-bold">Beneylu et Syllabo</span>.
         </p>
       </Row>
       <br/>

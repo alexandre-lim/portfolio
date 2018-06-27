@@ -18,7 +18,7 @@ const Improvit = () => (
       <Row type="flex" className="">
         <p>
           Dans le cadre de nos études, au sein d'une équipe de 5 personnes, nous avons organisé la
-          première conférence-atelier autour du développement personnel au sein du groupe ESIEA sur
+          <span className="span-bold"> première conférence-atelier autour du développement personnel</span> au sein du groupe ESIEA sur
           le thème "Faites de vos différences une force".
         </p>
       </Row>
@@ -28,7 +28,7 @@ const Improvit = () => (
       <Row type="flex" className="">
         <p>
           Plus que des geeks enfermés dans leur chambre à produire du code, nous sommes aussi capables d'organiser des évènements,
-          de prendre la parole et de communiquer de façon efficace autour de nous.
+          de <span className="span-bold">prendre la parole et de communiquer de façon efficace autour de nous.</span>
         </p>
         <p>
           Plus que des sujets techniques et le côté obscur du web, nous aimons l'être humain ainsi que son parcours
@@ -42,8 +42,10 @@ const Improvit = () => (
           transformer en force nos différences ? Voilà une question abordée lors de cet évènement.
         </p>
         <p>
-          Cet évènement a été animé par deux intervenants professionnels.
-          Improv'IT comptait 50 participants ainsi que deux photographes passionnés afin d'immortaliser cette conférence.
+          Cet évènement a été animé par <span className="span-bold">deux intervenants professionnels. </span>
+          Improv'IT comptait <span className="span-bold">50 participants</span> ainsi que
+          <span className="span-bold"> deux photographes passionnés </span>
+          afin d'immortaliser cette conférence.
         </p>
       </Row>
       <Row type="flex">
@@ -51,18 +53,18 @@ const Improvit = () => (
       </Row>
       <Row type="flex">
         <p>
-          Malgré les différentes personnalités de l'équipe, nous avons su travailler ensemble pour
+          Malgré les différentes personnalités de l'équipe, nous avons su <span className="span-bold">travailler ensemble</span> pour
           produire un livrable professionnel de qualité. Nous avons géré un planning, une trésorerie, et
           communiqué au sein de l'école mais aussi en dehors à travers les réseaux sociaux et à l'aide de
-          flyers personnalisés. Nous avons su défendre et mettre en avant l'intérêt de notre projet au sein
+          flyers personnalisés. Nous avons su <span className="span-bold">défendre et mettre en avant l'intérêt de notre projet</span> au sein
           d'une école d'ingénieur afin de collaborer gratuitement avec deux intervenants expérimentés.
         </p>
         <p>
-          Improv'IT fut un succès et met en avant notre capacité à nous adapter pour produire un travail
+          Improv'IT fut un succès et met en avant notre capacité à nous <span className="span-bold">adapter</span> pour produire un travail
           non technique pouvant rentrer dans le cadre d'une entreprise. De plus, l'engagement de l'équipe et
           l'intérêt du sujet a permis de rendre l'évènement payant dont les revenus ont aidé l'organisation et
-          des associations caritatives. Le buffet a marqué plus d'une personne par sa gourmandise et sa préparation
-          maison digne d'un traiteur que je vous invite à découvrir à travers nos photos.
+          des associations caritatives. Le <span className="span-bold">buffet</span> a marqué plus d'une personne par sa gourmandise et sa préparation
+          maison digne d'un traiteur.
         </p>
       </Row>
       <br/>
