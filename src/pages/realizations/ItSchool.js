@@ -44,7 +44,7 @@ const ItSchool = () => (
         <p>
           Le projet était ambitieux techniquement et l'attente de l'école par rapport à notre produit considérable.
           Cela nous a amené à nous surpasser pour créer une <span className="span-bold">cohésion d'équipe forte et durable</span> afin d'encaisser
-          toutes les tempêtes. Le chemin a été semé d'embuches où nous avons essuyé échecs et réussites.
+          toutes les tempêtes. Le chemin a été semé d'embûches où nous avons essuyé échecs et réussites.
         </p>
         <p>
           Nous étions souvent déchirés entre notre conscience de développeur adhérant

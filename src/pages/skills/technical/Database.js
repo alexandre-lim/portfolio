@@ -20,7 +20,7 @@ const Database = () => (
         </p>
         <p>
           Nous utilisons un <span className="span-bold">Système de Gestion de Base de Données (SGBD)</span> qui est un logiciel qui permet d'interagir avec une
-          base de donnée afin d'y effectuer nos opérations.
+          base de données afin d'y effectuer nos opérations.
         </p>
         <p>
           Il existe plusieurs types de base de données et aujourd'hui les plus utilisées sont
@@ -37,7 +37,7 @@ const Database = () => (
         </p>
         <p>
           J'ai utilisé dans le cadre de mes études le SGBDR
-          <a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/fr/"> MySQL </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com/fr/"> MySQL</a>
           , surement le plus connu.
           Puis lors de mes projets chez <span className="span-bold">Klee Group</span> j'ai utilisé
           <a target="_blank" rel="noopener noreferrer" href="https://www.postgresql.org/"> PostgreSQL </a>
@@ -50,7 +50,7 @@ const Database = () => (
           <a target="_blank" rel="noopener noreferrer" href="https://www.oracle.com/fr/database/index.html"> Oracle Database.</a>
         </p>
         <p>
-          L'API standard pour les bases de données relationnelles est le <span className="span-bold">Structured Query Language (SQL).</span>
+          L'API standard pour les bases de données relationnelles est le <span className="span-bold">Structured Query Language (SQL). </span>
           Ce langage est un standard et permet de donner des instructions au SGBDR afin de faire des opérations sur la base de données.
           Il est donc possible d'écrire un script SQL pouvant être réutilisé par les différents SGBDR même si chaque logiciel
           possède quelques variantes.
@@ -83,7 +83,7 @@ const Database = () => (
       </Row>
       <Row type="flex">
         <p>
-          L'utilisation des ces deux types de base a enrichi mon expérience et ma vision du stockage des données.
+          L'utilisation de ces deux types de base a enrichi mon expérience et ma vision du stockage des données.
           Cela me permet de mieux comprendre les enjeux et de donner mon opinion lorsqu'il se pose la question du choix
           entre une base SQL ou NoSQL.
         </p>

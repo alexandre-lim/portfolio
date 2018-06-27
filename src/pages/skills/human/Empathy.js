@@ -16,23 +16,23 @@ const Empathy = () => (
     <Row className="skill-content">
       <Row type="flex" className="skill-definition">
         <p>
-          <span className="span-bold">Ma définition</span> : Connection psychique et émotionnelle entre des êtres vivants.
+          <span className="span-bold">Ma définition</span> : Connexion psychique et émotionnelle entre des êtres vivants.
         </p>
       </Row>
       <Row type="flex" className="skill-introduction">
         <p>
-          Le monde se numérise et se digitalise. L'ordinateur et le smartphone sont devenu des outils intégrants de notre quotidien.
-          La surexposition à ces outils dans notre vie social et professionnelle peut créer des êtres dénués d'émotions ne sachant
+          Le monde se numérise et se digitalise. L'ordinateur et le smartphone sont devenus des outils intégrants de notre quotidien.
+          La surexposition à ces outils dans notre vie sociale et professionnelle peut créer des êtres dénués d'émotions ne sachant
           plus communiquer qu'à travers ces machines.
         </p>
         <p>
-          Mais derrière chaque écran se trouve un humain et non un robot. L'empathie est pour moi, une qualité indispensable
+          Mais derrière chaque écran se trouve un être humain et non un robot. L'empathie est pour moi, une qualité indispensable
           dans un monde évoluant trop vite dont nous essayons sans cesse de reprendre le contrôle. L'empathie est encore
           plus importante pour nous, ingénieur et développeur d'outils numériques afin de ne pas perdre notre humanité.
         </p>
         <p>
           Selon moi, les millions de lignes de codes produites représentent un monde gris et froid. En tant que développeur
-          nous vivons dans ce monde une grande partie de la journée. Une fois sorti de ce monde, pour ne pas percevoir son
+          nous vivons dans ce monde une grande partie de la journée. Une fois sortie de ce monde, pour ne pas percevoir son
           entourage tout en gris, l'empathie nous aide à <span className="span-bold">recolorer son espace et à remettre les pieds sur notre belle planète. </span>
           En s'identifiant à autrui et ces émotions tout en faisant la distinction des nôtres, nous redevenons humains,
           un être créatif au potentiel illimité.
@@ -51,7 +51,7 @@ const Empathy = () => (
         <p>
           Puis un jour, j'ai pris le temps de voir un bon vieil ami, aventureux et aimant la liberté par-dessus tout.
           Il me raconta avec passion ces aventures et ses déboires dans plusieurs pays. L'empathie a joué un rôle primordial.
-          Je me suis fortement <span className="span-bold">identifié</span> aux aventures en m'imaginant les vivres aussi. Cela a crée en moi de vives émotions et
+          Je me suis fortement <span className="span-bold">identifié</span> aux aventures en m'imaginant les vivres aussi. Cela a créé en moi de vives émotions et
           je me suis pris comme une gifle en pleine figure qui me réveilla de mon cauchemar. Il était temps d'agir et changer ma situation.
         </p>
         <p>
@@ -60,7 +60,7 @@ const Empathy = () => (
           pour que tout ne s'effondre pas.
         </p>
         <p>
-          L'empathie peur apporter énormément lors de nos relations avec autrui mais il ne faut pas oublier que
+          L'empathie peut énormément apporter lors de nos relations avec autrui mais il ne faut pas oublier que
           c'est un <span className="span-bold">allié de taille pour soi-même. </span>Je pense que mon empathie m'aide à devenir un bon développeur
           car cette expérience est une leçon qu'aucun bouquin technique ne pouvait me donner.
         </p>
@@ -74,7 +74,7 @@ const Empathy = () => (
           L'impact dans les performances individuelles et en équipe n'est pas négligeable.
         </p>
         <p>
-          Lors de mes réunions technique ou client, je n'oublie pas d'utiliser mon empathie lorsqu'une personne prend la parole.
+          Lors de mes réunions techniques ou client, je n'oublie pas d'utiliser mon empathie lorsqu'une personne prend la parole.
           Je pense qu'il est important de <span className="span-bold">prendre du recul</span> sur tout ce qui est dit ainsi que la situation pour par exemple décider
           de façon plus équitable sur des sujets importants.
         </p>

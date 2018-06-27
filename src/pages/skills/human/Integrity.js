@@ -43,7 +43,7 @@ const Integrity = () => (
       </Row>
       <Row type="flex" className="">
         <p>
-          De nature timide et introverti, l'environnement social en période d'adolescence a été la plus difficile.
+          De nature timide et introverti, l'environnement social en période d'adolescence a été le plus difficile.
           Je n'aimais pas l'alcool, ne fumais pas et n'appréciais pas les soirées en boites.
           J'aimais avoir des moments de solitudes pour me ressourcer, des conversations ayant du sens et
           avoir peu de relations mais privilégier la qualité. Cela m'a souvent valu d'être mis de côté

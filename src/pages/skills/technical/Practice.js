@@ -58,7 +58,7 @@ const Practice = () => (
       <Row type="flex" className="">
         <p>
           Ayant enfin trouvé un projet qui mettait en avant une philosophie de test, je ne peux plus m'imaginer
-          développer une application sans. Les tests ne sont pas si simples à mettre en place et demande de la pratique
+          développer une application sans test. Les tests ne sont pas si simples à mettre en place et demande de la pratique
           pour être vraiment efficace. Il me reste donc encore du travail afin de devenir un codeur de tests aguerri.
         </p>
       </Row>

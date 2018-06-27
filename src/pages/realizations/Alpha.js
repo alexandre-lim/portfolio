@@ -18,7 +18,7 @@ const Alpha = () => (
       </Row>
       <Row type="flex" className="">
         <p>
-          Le projet ministériel Alpha doit mettre en place un système d'information(SI) achats uniques pour l'ensemble
+          Le projet ministériel Alpha doit mettre en place un système d'information (SI) achats uniques pour l'ensemble
           des entités achats du Ministère de la Défense. Sa mise en œuvre se présente en trois objectifs : l'harmonisation
           des SI achats existants sous la forme d'un SI unique, la simplification et l'unification des processus achats,
           l'interopérabilité et partages des bonnes pratiques.

@@ -23,7 +23,7 @@ const Persevere = () => (
       <Row type="flex" className="skill-introduction">
         <p>
           Pourquoi persévérer ? Ma réponse est que persévérer est un des facteurs qui permet <span className="span-bold">la réussite personnelle
-          et professionnelle.</span> Cette qualité peut se travailler à chaque instant et j'ai fais le choix de l'intégrer
+          et professionnelle.</span> Cette qualité peut se travailler à chaque instant et j'ai fait le choix de l'intégrer
           dans ma routine quotidienne.
         </p>
         <p>
@@ -48,14 +48,14 @@ const Persevere = () => (
         <p>
           Lors de mes 15 ans, j'ai rejoint le club de Volley-Ball en section compétition.
           À mes débuts, cela a été extrêmement difficile. Le coach me réprimandait et je sentais que je ralentissais
-          le flow d'entrainement de l'équipe déjà de haut niveau. J'étais le seul nouveau, le reste de l'équipe
-          avait au minimum 2-3 années d'entrainement derrière eux. Je me rappelle encore du moment où je n'arrivais
+          le flow d'entraînement de l'équipe déjà de haut niveau. J'étais le seul nouveau, le reste de l'équipe
+          avait au minimum 2-3 années d'entraînement derrière eux. Je me rappelle encore du moment où je n'arrivais
           pas à servir et que le coach a attendu jusqu'à que je passe cinq services d'affilés qu'il jugeait correct.
           Sous pression, j'ai pensé à lâcher la balle et m'en aller, mais j'ai <span className="span-bold">serré les dents et relevé ce challenge.</span>
         </p>
         <p>
           Malgré ma forte timidité et ma petite stature, j'ai su insister et contre toute attente, atteindre le niveau régional
-          au bout de 3 années d'entrainements. Au cours de ces 3 années, nous avons remporté à plusieurs reprises le championnat
+          au bout de 3 années d'entraînements. Au cours de ces 3 années, nous avons remporté à plusieurs reprises le championnat
           départemental et régional. Nous avons aussi atteint le quart de finale en Coupe de France.
         </p>
         <p>
@@ -65,10 +65,10 @@ const Persevere = () => (
         </p>
         <p>
           Mes objectifs ont été accomplis et j'en tire une grande satisfaction.
-          Je peux maintenant envisager de plus grands objectifs encore impensables lors de mes débuts tel que les nationales.
+          Je peux maintenant envisager de plus grands objectifs encore impensables lors de mes débuts tels que les nationales.
         </p>
         <p>
-          Dans l'atteinte de mes objectifs, la notion de persévérance s'est traduite par <span className="span-bold">une régularité des entrainements,
+          Dans l'atteinte de mes objectifs, la notion de persévérance s'est traduite par <span className="span-bold">une régularité des entraînements,
           un dépassement constant de soi et l'écoute des conseils du coach et de mes coéquipiers. </span>
           Des études théoriques et stratégiques en dehors du terrain ont été nécessaires et il a fallu supporter la forte exigence
           du coach et de l'équipe.
@@ -104,9 +104,9 @@ const Persevere = () => (
         <p>
           Cette capacité à persévérer est essentielle dans toutes sortes de situation que je vis au quotidien.
           Le revers de la médaille est de ne pas savoir quand s'arrêter. A trop vouloir aller jusqu'au bout,
-          sans écouter son entourage, son corps et son esprit peut amener à des dommages irréversibles comme un burnout.
+          sans écouter son entourage, son corps et son esprit peuvent amener à des dommages irréversibles comme un burnout.
           Le mélange passion et persévérance peut provoquer un cocktail explosif.
-          Il me faut sans cesse me rappeler de trouver un juste milieu et quelques fois dire stop ou pivoter afin
+          Il me faut sans cesse me rappeler de trouver un juste milieu et quelquesfois dire stop ou pivoter afin
           d'avancer dans mes objectifs et même dans la vie.
         </p>
       </Row>

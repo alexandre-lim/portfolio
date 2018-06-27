@@ -31,7 +31,7 @@ const Syllabo = () => (
         </p>
         <p>
           Syllabo est un des projets retenu. Dans un premier temps, le produit a été développé par un groupe d'étudiants.
-          J'intègre Abbeal Valley afin de pousser le produit <span className="span-bold">jusqu'au étoiles.</span>
+          J'intègre Abbeal Valley afin de pousser le produit <span className="span-bold">jusqu'aux étoiles.</span>
         </p>
       </Row>
       <Row type="flex">

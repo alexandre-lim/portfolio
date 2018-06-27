@@ -80,7 +80,7 @@ const Beneylu = () => (
           L'application avait pour but de faire découvrir trois sports Olympiques : L'athlétisme, le basket et la gymnastique.
           Des témoignages et des vidéos mettant en scène les jeunes athlètes (14-16 ans) de l'Insep étaient à disposition
           des enfants à des fins pédagogiques. L'esprit sportif, la persévérance et le travail d'équipe ont été les valeurs
-          mises en avant. A chaque fois qu'un enfant finissait la découverte complète d'une activité, il recevait médailles
+          mises en avant. À chaque fois qu'un enfant finissait la découverte complète d'une activité, il recevait médailles
           et trophées et il avait accès à son palmarès. L'application fut un succès auprès des écoles qui avaient organisé
           cela sous forme d'activité qui incluait aussi de la pratique au sein des gymnases.
         </p>

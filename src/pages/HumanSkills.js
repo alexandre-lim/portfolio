@@ -90,7 +90,7 @@ const HumanSkills = ({match}) => (
             hoverable={true}
             >
             <div style={{ textAlign: 'center', lineHeight: '25px' }}>
-              <span><strong>Echec</strong></span>
+              <span><strong>Échec</strong></span>
               <Rate disabled allowHalf defaultValue={4} />
               <Rate character={<Icon type="heart" />} disabled allowHalf defaultValue={2} style={{ color: 'red' }}/>
             </div>

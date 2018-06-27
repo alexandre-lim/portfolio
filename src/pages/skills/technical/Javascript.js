@@ -15,7 +15,7 @@ const Javascript = () => (
       <Row type="flex" className="">
         <p>
           JavaScript est un <span className="span-bold">langage de script léger</span>,
-          <span className="span-bold">orienté objet</span>, référent au niveau des pages web pour dynamiser
+          <span className="span-bold"> orienté objet</span>, référent au niveau des pages web pour dynamiser
           le contenu en agissant sur le
           <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/fr/docs/Web/API/Document_Object_Model"> Document Object Model. </a>
           Le langage prend vie dans les <span className="span-bold">années 90 </span>
@@ -50,8 +50,8 @@ const Javascript = () => (
           derrière toute cette abstraction ?
         </p>
         <p>
-          Mon opinion est qu'il est de notre devoir de prendre du temps afin de faire des recherches qui représentent
-          un investissement sur le long terme. Les langages et librairies peuvent changer ou évoluer mais les concepts rarement.
+          D'après moi, il est de notre devoir de prendre du temps afin de faire des recherches qui représentent
+          un investissement sur le long terme. Les langages et librairies peuvent changer ou évoluer mais, les concepts rarement.
           En connaissant un ancien concept remplacé par un nouveau, on comprend mieux la transition et on prend en main plus vite
           le changement.
         </p>
@@ -61,12 +61,12 @@ const Javascript = () => (
           et
           <a target="_blank" rel="noopener noreferrer" href="https://angular.io/"> Angular 5 </a>
           lors du projet <span className="span-bold">Beneylu.</span> Le gain en productivité était indéniable avec une certaine
-          facilité d'utilisation des Framework. Il était intéressant de voir les différences énormes entre AngularJS et Angular 5.
+          facilitée d'utilisation des Framework. Il était intéressant de voir les différences énormes entre AngularJS et Angular 5.
         </p>
         <p>
           J'ai ensuite pris en main l'ES6 à travers l'application web <span className="span-bold">Syllabo</span> où nous utilisons
-          <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/"> React </a>,
-          <a target="_blank" rel="noopener noreferrer" href="https://redux.js.org/"> Redux </a>,
+          <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/"> React</a>,
+          <a target="_blank" rel="noopener noreferrer" href="https://redux.js.org/"> Redux</a>,
           <a target="_blank" rel="noopener noreferrer" href="https://redux-saga.js.org/"> Saga </a>et
           <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/about/"> Node.js </a>avec
           <a target="_blank" rel="noopener noreferrer" href="http://expressjs.com/"> Express.js. </a>
@@ -83,7 +83,7 @@ const Javascript = () => (
         <p>
           Le JavaScript me passionne et j'ai adoré mes différentes interactions avec celui-ci.
           Mon expérience m'a donné des bases solides pour évoluer sereinement sur ce langage.
-          Je continue ma veille technologique et espère pourvoir <span className="span-bold">transmettre mon savoir à d'autres personnes afin de
+          Je continue ma veille technologique et espère pourvoir <span className="span-bold">transmettre mon savoir a d'autres personnes afin de
           renforcer mes acquis et tout simplement partager.</span>
         </p>
       </Row>

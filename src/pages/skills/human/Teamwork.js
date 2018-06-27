@@ -23,7 +23,7 @@ const Teamwork = () => (
       <Row type="flex" className="skill-introduction">
         <p>
           La vie est une suite d'aventures jonchée d'obstacles pour atteindre des sommets.
-          Chaque personne écrit sa propre histoire et vit ses aventures.
+          Chaque personne écrit sa propre histoire et vie ses aventures.
           Mais aucune règle ne dit qu'il faut voyager seul.
         </p>
         <p>
@@ -32,12 +32,12 @@ const Teamwork = () => (
           Il y a donc peu de raisons pour refuser d'être dans une équipe.
         </p>
         <p>
-          Pourtant, choisir son équipe à son importance. La capacité de travailler en équipe ne signifie pas que l'on peut
+          Pourtant, choisir son équipe a de l'importance. La capacité de travailler en équipe ne signifie pas que l'on peut
           intégrer n'importe quel groupe et travailler ensemble.
         </p>
         <p>
           Selon moi, une équipe doit <span className="span-bold">partager des valeurs et un ou plusieurs objectifs assez forts pour mettre en place une cohésion,
-          une synergie. Ceci, qu'importe les différences entres les individus du groupe.</span>
+          une synergie. Ceci, qu'importe les différences entre les individus du groupe.</span>
         </p>
       </Row>
       <Row type="flex">
@@ -48,12 +48,12 @@ const Teamwork = () => (
         <span className="span-bold">It'School</span> a été le projet le plus marquant que j'ai pu réaliser.
           Travaillant avec deux amis que je considère maintenant comme des frères,
           nous nous sommes engagés corps et âmes au développement de l'application.
-          C'était une expérience inoubliable et marquante, une vraie aventure dans tout les sens du terme.
+          C'était une expérience inoubliable et marquante, une vraie aventure dans tous les sens du terme.
           Mais comment expliquer cela ?
         </p>
         <p>
-          Tout d'abord nous partageons de fortes valeurs en commun comme la bienveillance, le partage ou encore l'honnêteté.
-          De plus le but du projet était de délivrer une application à des enseignants qui sera utilisée par des enfants.
+          Tout d'abord, nous partageons de fortes valeurs en commun comme la bienveillance, le partage ou encore l'honnêteté.
+          De plus, le but du projet était de délivrer une application à des enseignants qui sera utilisée par des enfants.
           Il y avait du <span className="span-bold">sens dans notre métier de développeur.</span> Nous avons en commun notre pourquoi qui est
           de mettre <span className="span-bold">nos compétences aux services d'autrui.</span>
         </p>

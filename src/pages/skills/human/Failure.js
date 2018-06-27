@@ -7,7 +7,7 @@ import beneylu from '../../../beneylu.png';
 const Failure = () => (
   <Row className= "content-row">
     <Row type="flex" justify="center">
-      <h1>Echouer pour rebondir</h1>
+      <h1>Échouer pour rebondir</h1>
     </Row>
     <Row className="skill-content">
       <Row type="flex" className="skill-definition">
@@ -34,7 +34,7 @@ const Failure = () => (
         </p>
       </Row>
       <Row type="flex">
-        <h2>Echec et opportunité</h2>
+        <h2>Échec et opportunité</h2>
       </Row>
       <Row type="flex" className="">
         <p>
@@ -63,11 +63,11 @@ const Failure = () => (
       <Row type="flex">
         <p>
           Etre conscient de ses échecs m'aide à progresser en tant que développeur. L'échec fait partie du processus
-          pour réussir, pour s'améliorer car on a du feedback. J'ai une certaine peur de l'échec mais si cela m'arrive,
+          pour réussir, pour s'améliorer car on a du feedback. J'ai une certaine peur de l'échec, mais si cela m'arrive,
           mon mindset me permettra de <span className="span-bold">rebondir et d'aller de l'avant.</span> Le monde professionnel est vaste et compétitif.
           Pour survivre et atteindre des sommets, il faut se lancer et persévérer malgré les obstacles que l'on peut rencontrer.
           Il m'est déjà arrivé en entreprise de ne pas réussir une mise en production à temps ou de constater le mécontentement
-          d'un client pour une fonctionnalité que j'ai développé. Si je m'étais laissé abattre, je n'aurais pas pu créer un
+          d'un client pour une fonctionnalité que j'ai développée. Si je m'étais laissé abattre, je n'aurais pas pu créer un
           <span className="span-bold"> processus de mise en production plus fiable ou mieux cerner les besoins de mon client.</span>
         </p>
       </Row>

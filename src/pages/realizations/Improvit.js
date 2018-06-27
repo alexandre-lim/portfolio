@@ -18,7 +18,7 @@ const Improvit = () => (
       <Row type="flex" className="">
         <p>
           Dans le cadre de nos études, au sein d'une équipe de 5 personnes, nous avons organisé la
-          <span className="span-bold"> première conférence-atelier autour du développement personnel</span> au sein du groupe ESIEA sur
+          <span className="span-bold"> première conférence-atelier autour du développement personnel </span>au sein du groupe ESIEA sur
           le thème "Faites de vos différences une force".
         </p>
       </Row>

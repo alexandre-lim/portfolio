@@ -43,10 +43,10 @@ const Maintenance = () => (
         <p>
           Il faut de la <span className="span-bold">flexibilité et de l'adaptabilité</span> pour mener des maintenances correctement.
           On acquiert une capacité à prendre en main rapidement des projets d'envergure et n'avons pas peur de code
-          monstrueux ou surprenant comme un fichier faisant plus de milles lignes de code de conditions imbriqués.
+          monstrueux ou surprenant comme un fichier faisant plus de mille lignes de code de conditions imbriquées.
         </p>
         <p>
-          Une chose primordiale que j'ai appris en faisant de la maintenance sur des projets de longue date
+          Une chose primordiale que j'ai apprise en faisant de la maintenance sur des projets de longue date
           est <span className="span-bold">l'importance des tests.</span> Sur le moment, on a l'impression de perdre du temps et de ne pas pouvoir
           se concentrer sur la valeur qu'on doit apporter à un produit. Mais les tests sont un investissement
           qui feront gagner un temps considérable, facilitera la maintenance du produit et son évolution.

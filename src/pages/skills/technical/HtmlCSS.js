@@ -17,8 +17,8 @@ const HtmlCSS = () => (
       </Row>
       <Row type="flex" className="">
         <p>
-          <span className="span-bold">HTML (HyperText Markup Language) et CSS (Cascading Style Sheets)</span> sont deux langages de programmation indispensables
-          lorsque l'on créer des sites web. Un site web est ce que toute personne voit lorsqu'elle utilise ce qu'on appelle un
+          <span className="span-bold">HTML (HyperText Markup Language) et CSS (Cascading Style Sheets)</span> sont deux langages de programmation indispensable
+          lorsqu'on créer des sites web. Un site web est-ce que toute personne voit lorsqu'elle utilise ce qu'on appelle un
           navigateur web dont les plus connus sont : <span className="span-bold">Chrome, Safari, Firefox et Internet Explorer.</span> Le code HTML et CSS
           sont « traduits » par le navigateur qui permet ainsi le rendu d'un site web.
         </p>
@@ -33,7 +33,7 @@ const HtmlCSS = () => (
           au HTML et prend vie en 1996.
         </p>
         <p>
-          Il existe différentes versions des langages et actuellement nous sommes à la <span className="span-bold">
+          Il existe différentes versions des langages et nous sommes actuellement à la <span className="span-bold">
           version 5 pour le HTML et 3 pour le CSS.</span>
         </p>
       </Row>
@@ -60,7 +60,7 @@ const HtmlCSS = () => (
       <Row type="flex">
         <p>
           Bien que les langages soient simples à prendre en main, il ne faut pas les sous-estimer.
-          Cette facilité cache en réalité énormément de complexités et de concepts qu'il faut prendre le temps de d'analyser.
+          Cette facilité cache en réalité énormément de complexités et de concepts qu'il faut prendre le temps d'analyser.
           Cette compréhension est nécessaire pour par exemple optimiser ou rendre accessible un site pour des personnes sous handicap.
         </p>
         <p>
