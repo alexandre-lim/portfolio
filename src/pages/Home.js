@@ -1,6 +1,7 @@
 import React from 'react';
 import { Card, Row, Col } from 'antd';
 import { Link } from 'react-router-dom';
+import dream from '../dream.jpg';
 
 const About = props => (
   <Row
@@ -39,7 +40,7 @@ const About = props => (
           <Link to="/about" onClick={props.handleHrefClick}>
             <img
               alt="dream"
-              src="/dream.jpg"
+              src={dream}
               style={{
                 borderRadius: '50%',
                 maxHeight: '100%',
