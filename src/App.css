@@ -1,6 +1,10 @@
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 body {
@@ -12,19 +16,22 @@ body {
 }
 
 .layout {
-  height: 100%
+  height: 100%;
+}
+
+.ant-layout {
+  background: transparent;
 }
 
 .app-header {
-  background: white;
+  background: transparent;
   position: fixed;
   z-index: 1;
   width: 100%;
 }
 
 .content {
-  background: #f0f2f5;
-  padding: 0 24px;
+  padding: 0 64px;
   margin-top: 64px;
 }
 
@@ -33,6 +40,10 @@ body {
   margin: 16px 0;
   padding: 24px;
   min-height: 420px;
+}
+
+.content-row-transparent {
+  background: transparent;
 }
 
 .logo {
@@ -46,7 +57,8 @@ body {
 .card-quote {
   color: black !important;
   text-align: center;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+    0 1px 5px 0 rgba(0, 0, 0, 0.12);
   font-size: 16px;
   font-weight: bold;
   min-height: 100px;
@@ -58,9 +70,10 @@ body {
 
 .app-footer {
   text-align: center;
-  background: #f0f2f5;
-  color: #888;
+  background: transparent;
+  color: white;
   font-size: 12px;
+  font-weight: bold;
 }
 
 .profil-picture {
@@ -75,7 +88,9 @@ body {
   padding: 32px;
 }
 
-.ant-row .skill-content, .ant-row .realization-content, .quote-content {
+.ant-row .skill-content,
+.ant-row .realization-content,
+.quote-content {
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -88,7 +103,8 @@ body {
   width: 200px;
   color: black !important;
   text-align: center;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+    0 1px 5px 0 rgba(0, 0, 0, 0.12);
   font-size: 16px;
   background: #fff;
   border-radius: 2px;
@@ -96,7 +112,7 @@ body {
 }
 
 .ant-card-cover {
-  border-bottom: 1px solid rgba(0, 51, 0, 0.1)
+  border-bottom: 1px solid rgba(0, 51, 0, 0.1);
 }
 
 .ant-card-cover > * {
@@ -107,9 +123,10 @@ body {
   background: rgba(0,0,0,0.4);
 } */
 
-.realizations-button, .skills-button {
+.realizations-button,
+.skills-button {
   width: 70px;
-  height:70px;
+  height: 70px;
   border-radius: 50%;
   cursor: pointer;
 }
